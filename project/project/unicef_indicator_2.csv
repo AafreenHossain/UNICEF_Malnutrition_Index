@@ -1,0 +1,2025 @@
+country,alpha_2_code,alpha_3_code,numeric_code,indicator,time_period,obs_value,sex
+Afghanistan,AF,AFG,4,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2013,4.9,Female
+Afghanistan,AF,AFG,4,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,2.7,Female
+Afghanistan,AF,AFG,4,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2013,5.1,Male
+Afghanistan,AF,AFG,4,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,3.5,Male
+Afghanistan,AF,AFG,4,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2013,5,Total
+Afghanistan,AF,AFG,4,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,3.1,Total
+Albania,AL,ALB,8,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2005,3.1,Female
+Albania,AL,ALB,8,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2009,3,Female
+Albania,AL,ALB,8,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2017,1.6,Female
+Albania,AL,ALB,8,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2005,4.8,Male
+Albania,AL,ALB,8,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2009,5.4,Male
+Albania,AL,ALB,8,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2017,1.1,Male
+Albania,AL,ALB,8,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2005,4,Total
+Albania,AL,ALB,8,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2009,4.2,Total
+Albania,AL,ALB,8,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2017,1.4,Total
+Algeria,DZ,DZA,12,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1992,4,Female
+Algeria,DZ,DZA,12,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,1.7,Female
+Algeria,DZ,DZA,12,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2002,4.1,Female
+Algeria,DZ,DZA,12,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,2.6,Female
+Algeria,DZ,DZA,12,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,2.9,Female
+Algeria,DZ,DZA,12,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,1.4,Female
+Algeria,DZ,DZA,12,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1992,3.6,Male
+Algeria,DZ,DZA,12,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,2.7,Male
+Algeria,DZ,DZA,12,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2002,4.4,Male
+Algeria,DZ,DZA,12,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,2.3,Male
+Algeria,DZ,DZA,12,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,2.6,Male
+Algeria,DZ,DZA,12,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,1.5,Male
+Algeria,DZ,DZA,12,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1992,3.8,Total
+Algeria,DZ,DZA,12,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,2.2,Total
+Algeria,DZ,DZA,12,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2002,4.3,Total
+Algeria,DZ,DZA,12,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,2.4,Total
+Algeria,DZ,DZA,12,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,2.7,Total
+Algeria,DZ,DZA,12,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,1.5,Total
+Angola,AO,AGO,24,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1996,4.3,Female
+Angola,AO,AGO,24,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2015,3.6,Female
+Angola,AO,AGO,24,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1996,2.4,Male
+Angola,AO,AGO,24,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2015,3.4,Male
+Angola,AO,AGO,24,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1996,3.4,Total
+Angola,AO,AGO,24,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2015,3.5,Total
+Argentina,AR,ARG,32,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2005,1.1,Female
+Argentina,AR,ARG,32,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,0.9,Female
+Argentina,AR,ARG,32,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2005,1.2,Male
+Argentina,AR,ARG,32,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,1.7,Male
+Argentina,AR,ARG,32,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2005,1.1,Total
+Argentina,AR,ARG,32,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,1.3,Total
+Armenia,AM,ARM,51,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,2.5,Female
+Armenia,AM,ARM,51,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2005,3.2,Female
+Armenia,AM,ARM,51,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,3,Female
+Armenia,AM,ARM,51,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,3,Female
+Armenia,AM,ARM,51,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,2.1,Male
+Armenia,AM,ARM,51,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2005,2.5,Male
+Armenia,AM,ARM,51,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,2.1,Male
+Armenia,AM,ARM,51,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,2.4,Male
+Armenia,AM,ARM,51,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,2.3,Total
+Armenia,AM,ARM,51,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2005,2.8,Total
+Armenia,AM,ARM,51,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,2.5,Total
+Armenia,AM,ARM,51,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,2.7,Total
+Azerbaijan,AZ,AZE,31,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,4.1,Female
+Azerbaijan,AZ,AZE,31,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,3.2,Female
+Azerbaijan,AZ,AZE,31,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2013,1.4,Female
+Azerbaijan,AZ,AZE,31,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,4.8,Male
+Azerbaijan,AZ,AZE,31,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,4.8,Male
+Azerbaijan,AZ,AZE,31,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2013,2.7,Male
+Azerbaijan,AZ,AZE,31,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,4.5,Total
+Azerbaijan,AZ,AZE,31,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,4.1,Total
+Azerbaijan,AZ,AZE,31,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2013,2.1,Total
+Bangladesh,BD,BGD,50,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1997,11.1,Female
+Bangladesh,BD,BGD,50,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,7.4,Female
+Bangladesh,BD,BGD,50,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2004,9.2,Female
+Bangladesh,BD,BGD,50,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2007,11.7,Female
+Bangladesh,BD,BGD,50,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2011,9.1,Female
+Bangladesh,BD,BGD,50,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2013,6.1,Female
+Bangladesh,BD,BGD,50,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,9.2,Female
+Bangladesh,BD,BGD,50,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,5.3,Female
+Bangladesh,BD,BGD,50,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,6.7,Female
+Bangladesh,BD,BGD,50,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1997,10.9,Male
+Bangladesh,BD,BGD,50,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,8.1,Male
+Bangladesh,BD,BGD,50,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2004,8.9,Male
+Bangladesh,BD,BGD,50,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2007,11.6,Male
+Bangladesh,BD,BGD,50,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2011,9.8,Male
+Bangladesh,BD,BGD,50,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2013,6.4,Male
+Bangladesh,BD,BGD,50,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,9.4,Male
+Bangladesh,BD,BGD,50,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,6.2,Male
+Bangladesh,BD,BGD,50,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,6.8,Male
+Bangladesh,BD,BGD,50,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1997,11,Total
+Bangladesh,BD,BGD,50,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,7.8,Total
+Bangladesh,BD,BGD,50,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2004,9,Total
+Bangladesh,BD,BGD,50,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2007,11.6,Total
+Bangladesh,BD,BGD,50,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2011,9.4,Total
+Bangladesh,BD,BGD,50,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2013,6.2,Total
+Bangladesh,BD,BGD,50,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,9.3,Total
+Bangladesh,BD,BGD,50,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,5.7,Total
+Bangladesh,BD,BGD,50,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,6.7,Total
+Barbados,BB,BRB,52,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,3.3,Female
+Barbados,BB,BRB,52,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,7.9,Male
+Barbados,BB,BRB,52,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,5.8,Total
+Belarus,BY,BLR,112,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2005,1.4,Female
+Belarus,BY,BLR,112,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2005,1.6,Male
+Belarus,BY,BLR,112,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2005,1.5,Total
+Belgium,BE,BEL,56,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,0,Female
+Belgium,BE,BEL,56,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,0,Male
+Belgium,BE,BEL,56,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,0,Total
+Belize,BZ,BLZ,84,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,1.4,Female
+Belize,BZ,BLZ,84,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2011,1.7,Female
+Belize,BZ,BLZ,84,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2015,0.8,Female
+Belize,BZ,BLZ,84,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,0.6,Male
+Belize,BZ,BLZ,84,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2011,1.9,Male
+Belize,BZ,BLZ,84,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2015,1.8,Male
+Belize,BZ,BLZ,84,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,1,Total
+Belize,BZ,BLZ,84,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2011,1.8,Total
+Belize,BZ,BLZ,84,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2015,1.3,Total
+Benin,BJ,BEN,204,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1996,9.2,Female
+Benin,BJ,BEN,204,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2001,5.1,Female
+Benin,BJ,BEN,204,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2008,2.9,Female
+Benin,BJ,BEN,204,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,2.7,Female
+Benin,BJ,BEN,204,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,3.5,Female
+Benin,BJ,BEN,204,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1996,12.3,Male
+Benin,BJ,BEN,204,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2001,6.5,Male
+Benin,BJ,BEN,204,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2008,3.6,Male
+Benin,BJ,BEN,204,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,3.2,Male
+Benin,BJ,BEN,204,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,3.7,Male
+Benin,BJ,BEN,204,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1996,10.8,Total
+Benin,BJ,BEN,204,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2001,5.8,Total
+Benin,BJ,BEN,204,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2008,3.3,Total
+Benin,BJ,BEN,204,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,2.9,Total
+Benin,BJ,BEN,204,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,3.6,Total
+Bhutan,BT,BTN,64,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1999,1.1,Female
+Bhutan,BT,BTN,64,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2008,2.3,Female
+Bhutan,BT,BTN,64,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,3.1,Female
+Bhutan,BT,BTN,64,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1999,1.6,Male
+Bhutan,BT,BTN,64,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2008,2.7,Male
+Bhutan,BT,BTN,64,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,3.9,Male
+Bhutan,BT,BTN,64,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1999,1.3,Total
+Bhutan,BT,BTN,64,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2008,2.5,Total
+Bhutan,BT,BTN,64,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,3.5,Total
+"Bolivia, Plurinational State of",BO,BOL,68,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1989,1.2,Female
+"Bolivia, Plurinational State of",BO,BOL,68,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1994,2.6,Female
+"Bolivia, Plurinational State of",BO,BOL,68,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1998,1,Female
+"Bolivia, Plurinational State of",BO,BOL,68,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2003,1,Female
+"Bolivia, Plurinational State of",BO,BOL,68,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2008,0.5,Female
+"Bolivia, Plurinational State of",BO,BOL,68,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,0.6,Female
+"Bolivia, Plurinational State of",BO,BOL,68,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,1,Female
+"Bolivia, Plurinational State of",BO,BOL,68,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1989,1.5,Male
+"Bolivia, Plurinational State of",BO,BOL,68,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1994,4.5,Male
+"Bolivia, Plurinational State of",BO,BOL,68,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1998,1.2,Male
+"Bolivia, Plurinational State of",BO,BOL,68,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2003,1.2,Male
+"Bolivia, Plurinational State of",BO,BOL,68,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2008,1.3,Male
+"Bolivia, Plurinational State of",BO,BOL,68,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,1.3,Male
+"Bolivia, Plurinational State of",BO,BOL,68,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,1,Male
+"Bolivia, Plurinational State of",BO,BOL,68,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1989,1.4,Total
+"Bolivia, Plurinational State of",BO,BOL,68,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1994,3.6,Total
+"Bolivia, Plurinational State of",BO,BOL,68,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1998,1.1,Total
+"Bolivia, Plurinational State of",BO,BOL,68,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2003,1.1,Total
+"Bolivia, Plurinational State of",BO,BOL,68,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2008,0.9,Total
+"Bolivia, Plurinational State of",BO,BOL,68,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,1,Total
+"Bolivia, Plurinational State of",BO,BOL,68,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,1,Total
+Bosnia and Herzegovina,BA,BIH,70,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,4.4,Female
+Bosnia and Herzegovina,BA,BIH,70,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,2.7,Female
+Bosnia and Herzegovina,BA,BIH,70,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,1.2,Female
+Bosnia and Herzegovina,BA,BIH,70,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,5.8,Male
+Bosnia and Herzegovina,BA,BIH,70,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,2.3,Male
+Bosnia and Herzegovina,BA,BIH,70,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,1.4,Male
+Bosnia and Herzegovina,BA,BIH,70,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,5.1,Total
+Bosnia and Herzegovina,BA,BIH,70,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,2.5,Total
+Bosnia and Herzegovina,BA,BIH,70,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,1.3,Total
+Botswana,BW,BWA,72,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,3.4,Female
+Botswana,BW,BWA,72,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2007,3.5,Female
+Botswana,BW,BWA,72,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,2.8,Male
+Botswana,BW,BWA,72,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2007,5.3,Male
+Botswana,BW,BWA,72,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,3.1,Total
+Botswana,BW,BWA,72,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2007,4.4,Total
+Brazil,BR,BRA,76,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1989,1.5,Female
+Brazil,BR,BRA,76,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1996,1.8,Female
+Brazil,BR,BRA,76,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2007,0.8,Female
+Brazil,BR,BRA,76,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1989,1.6,Male
+Brazil,BR,BRA,76,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1996,1.9,Male
+Brazil,BR,BRA,76,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2007,1.9,Male
+Brazil,BR,BRA,76,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1989,1.6,Total
+Brazil,BR,BRA,76,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1996,1.8,Total
+Brazil,BR,BRA,76,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2007,1.4,Total
+Bulgaria,BG,BGR,100,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2007,3.5,Female
+Bulgaria,BG,BGR,100,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,3.2,Female
+Bulgaria,BG,BGR,100,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2007,4.5,Male
+Bulgaria,BG,BGR,100,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,4.1,Male
+Bulgaria,BG,BGR,100,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2007,4,Total
+Bulgaria,BG,BGR,100,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,2.4,Total
+Burkina Faso,BF,BFA,854,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1993,8.8,Female
+Burkina Faso,BF,BFA,854,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1999,8.8,Female
+Burkina Faso,BF,BFA,854,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,8.6,Female
+Burkina Faso,BF,BFA,854,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2011,6.4,Female
+Burkina Faso,BF,BFA,854,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,6.2,Female
+Burkina Faso,BF,BFA,854,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2013,5.5,Female
+Burkina Faso,BF,BFA,854,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,5.2,Female
+Burkina Faso,BF,BFA,854,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2015,6.6,Female
+Burkina Faso,BF,BFA,854,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,4.6,Female
+Burkina Faso,BF,BFA,854,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2017,5.3,Female
+Burkina Faso,BF,BFA,854,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,5.1,Female
+Burkina Faso,BF,BFA,854,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,5.5,Female
+Burkina Faso,BF,BFA,854,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2020,5.4,Female
+Burkina Faso,BF,BFA,854,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1993,6.7,Male
+Burkina Faso,BF,BFA,854,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1999,9.6,Male
+Burkina Faso,BF,BFA,854,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,9,Male
+Burkina Faso,BF,BFA,854,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2011,7.5,Male
+Burkina Faso,BF,BFA,854,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,8,Male
+Burkina Faso,BF,BFA,854,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2013,5.7,Male
+Burkina Faso,BF,BFA,854,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,6.1,Male
+Burkina Faso,BF,BFA,854,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2015,7.4,Male
+Burkina Faso,BF,BFA,854,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,5.5,Male
+Burkina Faso,BF,BFA,854,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2017,6.5,Male
+Burkina Faso,BF,BFA,854,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,5.9,Male
+Burkina Faso,BF,BFA,854,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,6.4,Male
+Burkina Faso,BF,BFA,854,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2020,6.9,Male
+Burkina Faso,BF,BFA,854,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1993,7.8,Total
+Burkina Faso,BF,BFA,854,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1999,9.2,Total
+Burkina Faso,BF,BFA,854,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,8.8,Total
+Burkina Faso,BF,BFA,854,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2011,6.9,Total
+Burkina Faso,BF,BFA,854,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,7.2,Total
+Burkina Faso,BF,BFA,854,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2013,5.6,Total
+Burkina Faso,BF,BFA,854,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,5.7,Total
+Burkina Faso,BF,BFA,854,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2015,7,Total
+Burkina Faso,BF,BFA,854,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,5.1,Total
+Burkina Faso,BF,BFA,854,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2017,5.9,Total
+Burkina Faso,BF,BFA,854,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,5.5,Total
+Burkina Faso,BF,BFA,854,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,6,Total
+Burkina Faso,BF,BFA,854,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2020,6.2,Total
+Burundi,BI,BDI,108,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1987,4.3,Female
+Burundi,BI,BDI,108,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,4.2,Female
+Burundi,BI,BDI,108,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,3.2,Female
+Burundi,BI,BDI,108,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,2.8,Female
+Burundi,BI,BDI,108,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,2.6,Female
+Burundi,BI,BDI,108,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,2.6,Female
+Burundi,BI,BDI,108,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2020,3,Female
+Burundi,BI,BDI,108,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1987,4.8,Male
+Burundi,BI,BDI,108,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,5,Male
+Burundi,BI,BDI,108,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,3,Male
+Burundi,BI,BDI,108,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,3.3,Male
+Burundi,BI,BDI,108,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,3,Male
+Burundi,BI,BDI,108,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,3.2,Male
+Burundi,BI,BDI,108,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2020,3.8,Male
+Burundi,BI,BDI,108,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1987,4.5,Total
+Burundi,BI,BDI,108,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,4.6,Total
+Burundi,BI,BDI,108,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,3.1,Total
+Burundi,BI,BDI,108,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,3,Total
+Burundi,BI,BDI,108,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,2.8,Total
+Burundi,BI,BDI,108,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,2.9,Total
+Burundi,BI,BDI,108,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2020,3.4,Total
+Cambodia,KH,KHM,116,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,7,Female
+Cambodia,KH,KHM,116,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2005,5.1,Female
+Cambodia,KH,KHM,116,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2008,5.6,Female
+Cambodia,KH,KHM,116,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,6.2,Female
+Cambodia,KH,KHM,116,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,6.2,Female
+Cambodia,KH,KHM,116,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,8.9,Male
+Cambodia,KH,KHM,116,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2005,4.7,Male
+Cambodia,KH,KHM,116,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2008,6.3,Male
+Cambodia,KH,KHM,116,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,6.6,Male
+Cambodia,KH,KHM,116,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,5.7,Male
+Cambodia,KH,KHM,116,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,8,Total
+Cambodia,KH,KHM,116,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2005,4.9,Total
+Cambodia,KH,KHM,116,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2008,5.9,Total
+Cambodia,KH,KHM,116,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,6.4,Total
+Cambodia,KH,KHM,116,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,6,Total
+Cameroon,CM,CMR,120,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1991,2.3,Female
+Cameroon,CM,CMR,120,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1998,5.3,Female
+Cameroon,CM,CMR,120,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2004,3.3,Female
+Cameroon,CM,CMR,120,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,4.3,Female
+Cameroon,CM,CMR,120,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2011,3.2,Female
+Cameroon,CM,CMR,120,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,3.2,Female
+Cameroon,CM,CMR,120,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,2.5,Female
+Cameroon,CM,CMR,120,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1991,2.2,Male
+Cameroon,CM,CMR,120,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1998,5.6,Male
+Cameroon,CM,CMR,120,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2004,2.8,Male
+Cameroon,CM,CMR,120,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,4.6,Male
+Cameroon,CM,CMR,120,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2011,3,Male
+Cameroon,CM,CMR,120,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,3.3,Male
+Cameroon,CM,CMR,120,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,3.3,Male
+Cameroon,CM,CMR,120,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1991,2.2,Total
+Cameroon,CM,CMR,120,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1998,5.5,Total
+Cameroon,CM,CMR,120,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2004,3,Total
+Cameroon,CM,CMR,120,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,4.5,Total
+Cameroon,CM,CMR,120,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2011,3.1,Total
+Cameroon,CM,CMR,120,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,3.2,Total
+Cameroon,CM,CMR,120,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,2.9,Total
+Central African Republic,CF,CAF,140,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1994,5.2,Female
+Central African Republic,CF,CAF,140,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,4.7,Female
+Central African Republic,CF,CAF,140,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,7.1,Female
+Central African Republic,CF,CAF,140,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,3.6,Female
+Central African Republic,CF,CAF,140,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,4.2,Female
+Central African Republic,CF,CAF,140,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,3.5,Female
+Central African Republic,CF,CAF,140,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,4.3,Female
+Central African Republic,CF,CAF,140,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",3/14/2019,3.3,Female
+Central African Republic,CF,CAF,140,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",11/7/2019,3.1,Female
+Central African Republic,CF,CAF,140,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1994,6.8,Male
+Central African Republic,CF,CAF,140,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,5.6,Male
+Central African Republic,CF,CAF,140,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,6.8,Male
+Central African Republic,CF,CAF,140,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,5.1,Male
+Central African Republic,CF,CAF,140,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,5.2,Male
+Central African Republic,CF,CAF,140,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,4.4,Male
+Central African Republic,CF,CAF,140,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,4.3,Male
+Central African Republic,CF,CAF,140,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",3/14/2019,3.1,Male
+Central African Republic,CF,CAF,140,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",11/7/2019,3,Male
+Central African Republic,CF,CAF,140,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1994,6,Total
+Central African Republic,CF,CAF,140,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,5.1,Total
+Central African Republic,CF,CAF,140,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,6.9,Total
+Central African Republic,CF,CAF,140,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,4.4,Total
+Central African Republic,CF,CAF,140,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,4.7,Total
+Central African Republic,CF,CAF,140,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,4,Total
+Central African Republic,CF,CAF,140,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,4.3,Total
+Central African Republic,CF,CAF,140,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",3/14/2019,3.2,Total
+Central African Republic,CF,CAF,140,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",11/7/2019,3,Total
+Chad,TD,TCD,148,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1997,8.7,Female
+Chad,TD,TCD,148,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,8.7,Female
+Chad,TD,TCD,148,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2004,7.9,Female
+Chad,TD,TCD,148,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,7.9,Female
+Chad,TD,TCD,148,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2015,7,Female
+Chad,TD,TCD,148,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2017,7.9,Female
+Chad,TD,TCD,148,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",8/12/2019,7.2,Female
+Chad,TD,TCD,148,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",8/27/2019,7.8,Female
+Chad,TD,TCD,148,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2020,6,Female
+Chad,TD,TCD,148,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2021,6.8,Female
+Chad,TD,TCD,148,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1997,9.4,Male
+Chad,TD,TCD,148,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,8.1,Male
+Chad,TD,TCD,148,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2004,8.5,Male
+Chad,TD,TCD,148,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,8.8,Male
+Chad,TD,TCD,148,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2015,7.6,Male
+Chad,TD,TCD,148,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2017,8.6,Male
+Chad,TD,TCD,148,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",8/12/2019,8.8,Male
+Chad,TD,TCD,148,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",8/27/2019,8.3,Male
+Chad,TD,TCD,148,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2020,6.8,Male
+Chad,TD,TCD,148,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2021,7.7,Male
+Chad,TD,TCD,148,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1997,9.1,Total
+Chad,TD,TCD,148,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,8.4,Total
+Chad,TD,TCD,148,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2004,8.2,Total
+Chad,TD,TCD,148,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,8.3,Total
+Chad,TD,TCD,148,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2015,7.3,Total
+Chad,TD,TCD,148,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2017,8.3,Total
+Chad,TD,TCD,148,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",8/12/2019,8,Total
+Chad,TD,TCD,148,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",8/27/2019,8,Total
+Chad,TD,TCD,148,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2020,6.4,Total
+Chad,TD,TCD,148,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2021,7.2,Total
+Colombia,CO,COL,170,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1986,0.9,Female
+Colombia,CO,COL,170,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1995,1,Female
+Colombia,CO,COL,170,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,0.9,Female
+Colombia,CO,COL,170,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2005,0.9,Female
+Colombia,CO,COL,170,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,0.7,Female
+Colombia,CO,COL,170,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,0.9,Female
+Colombia,CO,COL,170,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1986,0.9,Male
+Colombia,CO,COL,170,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1995,1.1,Male
+Colombia,CO,COL,170,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,0.5,Male
+Colombia,CO,COL,170,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2005,1.2,Male
+Colombia,CO,COL,170,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,0.7,Male
+Colombia,CO,COL,170,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,1.2,Male
+Colombia,CO,COL,170,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1986,0.9,Total
+Colombia,CO,COL,170,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1995,1.1,Total
+Colombia,CO,COL,170,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,0.7,Total
+Colombia,CO,COL,170,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2005,1.1,Total
+Colombia,CO,COL,170,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,0.7,Total
+Colombia,CO,COL,170,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,1,Total
+Comoros,KM,COM,174,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1996,4.8,Female
+Comoros,KM,COM,174,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,5.9,Female
+Comoros,KM,COM,174,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,6.2,Female
+Comoros,KM,COM,174,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1996,5.3,Male
+Comoros,KM,COM,174,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,5.8,Male
+Comoros,KM,COM,174,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,7.3,Male
+Comoros,KM,COM,174,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1996,5.1,Total
+Comoros,KM,COM,174,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,5.9,Total
+Comoros,KM,COM,174,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,6.8,Total
+Congo,CG,COG,178,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2005,5.3,Female
+Congo,CG,COG,178,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2011,3.6,Female
+Congo,CG,COG,178,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,5.2,Female
+Congo,CG,COG,178,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2005,5.2,Male
+Congo,CG,COG,178,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2011,3.8,Male
+Congo,CG,COG,178,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,5.4,Male
+Congo,CG,COG,178,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2005,5.2,Total
+Congo,CG,COG,178,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2011,3.7,Total
+Congo,CG,COG,178,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,5.3,Total
+Costa Rica,CR,CRI,188,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,1.4,Female
+Costa Rica,CR,CRI,188,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,1.2,Male
+Costa Rica,CR,CRI,188,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,1.3,Total
+Cuba,CU,CUB,192,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,1.6,Female
+Cuba,CU,CUB,192,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,1.7,Male
+Cuba,CU,CUB,192,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,1.7,Total
+Czech Republic,CZ,CZE,203,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2001,3.1,Female
+Czech Republic,CZ,CZE,203,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2001,4.1,Male
+Czech Republic,CZ,CZE,203,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2001,3.6,Total
+Ivory Coast,CI,CIV,384,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1986,5.5,Female
+Ivory Coast,CI,CIV,384,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1994,6.3,Female
+Ivory Coast,CI,CIV,384,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1998,5.2,Female
+Ivory Coast,CI,CIV,384,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,4.5,Female
+Ivory Coast,CI,CIV,384,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,4.4,Female
+Ivory Coast,CI,CIV,384,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1986,8.3,Male
+Ivory Coast,CI,CIV,384,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1994,7.5,Male
+Ivory Coast,CI,CIV,384,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1998,5.3,Male
+Ivory Coast,CI,CIV,384,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,5.9,Male
+Ivory Coast,CI,CIV,384,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,4.6,Male
+Ivory Coast,CI,CIV,384,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1986,6.9,Total
+Ivory Coast,CI,CIV,384,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1994,6.9,Total
+Ivory Coast,CI,CIV,384,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1998,5.3,Total
+Ivory Coast,CI,CIV,384,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,5.2,Total
+Ivory Coast,CI,CIV,384,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,4.5,Total
+"Congo, the Democratic Republic of the",CD,COD,180,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2001,7.9,Female
+"Congo, the Democratic Republic of the",CD,COD,180,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2007,5,Female
+"Congo, the Democratic Republic of the",CD,COD,180,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,4.5,Female
+"Congo, the Democratic Republic of the",CD,COD,180,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2013,3.8,Female
+"Congo, the Democratic Republic of the",CD,COD,180,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2017,3.5,Female
+"Congo, the Democratic Republic of the",CD,COD,180,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2001,8.9,Male
+"Congo, the Democratic Republic of the",CD,COD,180,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2007,6.1,Male
+"Congo, the Democratic Republic of the",CD,COD,180,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,5.4,Male
+"Congo, the Democratic Republic of the",CD,COD,180,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2013,5.3,Male
+"Congo, the Democratic Republic of the",CD,COD,180,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2017,3.8,Male
+"Congo, the Democratic Republic of the",CD,COD,180,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2001,8.4,Total
+"Congo, the Democratic Republic of the",CD,COD,180,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2007,5.6,Total
+"Congo, the Democratic Republic of the",CD,COD,180,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,4.9,Total
+"Congo, the Democratic Republic of the",CD,COD,180,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2013,4.6,Total
+"Congo, the Democratic Republic of the",CD,COD,180,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2017,3.6,Total
+Djibouti,DJ,DJI,262,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2013,9.1,Female
+Djibouti,DJ,DJI,262,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,6.3,Female
+Djibouti,DJ,DJI,262,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2013,9.8,Male
+Djibouti,DJ,DJI,262,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,7.8,Male
+Djibouti,DJ,DJI,262,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2013,9.5,Total
+Djibouti,DJ,DJI,262,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,7.1,Total
+Dominican Republic,DO,DOM,214,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1986,0.4,Female
+Dominican Republic,DO,DOM,214,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1991,1.2,Female
+Dominican Republic,DO,DOM,214,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1996,1,Female
+Dominican Republic,DO,DOM,214,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,0.9,Female
+Dominican Republic,DO,DOM,214,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2002,1.4,Female
+Dominican Republic,DO,DOM,214,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,1.4,Female
+Dominican Republic,DO,DOM,214,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2007,1.5,Female
+Dominican Republic,DO,DOM,214,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2013,2.2,Female
+Dominican Republic,DO,DOM,214,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,1.4,Female
+Dominican Republic,DO,DOM,214,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1986,2.8,Male
+Dominican Republic,DO,DOM,214,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1991,1.5,Male
+Dominican Republic,DO,DOM,214,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1996,1.7,Male
+Dominican Republic,DO,DOM,214,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,1.3,Male
+Dominican Republic,DO,DOM,214,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2002,1.3,Male
+Dominican Republic,DO,DOM,214,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,1.9,Male
+Dominican Republic,DO,DOM,214,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2007,1.3,Male
+Dominican Republic,DO,DOM,214,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2013,1.5,Male
+Dominican Republic,DO,DOM,214,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,2.1,Male
+Dominican Republic,DO,DOM,214,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1986,1.6,Total
+Dominican Republic,DO,DOM,214,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1991,1.3,Total
+Dominican Republic,DO,DOM,214,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1996,1.4,Total
+Dominican Republic,DO,DOM,214,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,1.1,Total
+Dominican Republic,DO,DOM,214,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2002,1.3,Total
+Dominican Republic,DO,DOM,214,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,1.7,Total
+Dominican Republic,DO,DOM,214,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2007,1.4,Total
+Dominican Republic,DO,DOM,214,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2013,1.8,Total
+Dominican Republic,DO,DOM,214,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,1.7,Total
+Ecuador,EC,ECU,218,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1999,2.4,Female
+Ecuador,EC,ECU,218,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2004,1.3,Female
+Ecuador,EC,ECU,218,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,1.3,Female
+Ecuador,EC,ECU,218,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,1.2,Female
+Ecuador,EC,ECU,218,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,1,Female
+Ecuador,EC,ECU,218,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,1.9,Female
+Ecuador,EC,ECU,218,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1999,7.6,Male
+Ecuador,EC,ECU,218,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2004,1.1,Male
+Ecuador,EC,ECU,218,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,1.2,Male
+Ecuador,EC,ECU,218,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,1.7,Male
+Ecuador,EC,ECU,218,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,1,Male
+Ecuador,EC,ECU,218,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,2.4,Male
+Ecuador,EC,ECU,218,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1999,5.3,Total
+Ecuador,EC,ECU,218,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2004,1.2,Total
+Ecuador,EC,ECU,218,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,1.3,Total
+Ecuador,EC,ECU,218,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,1.4,Total
+Ecuador,EC,ECU,218,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,1,Total
+Ecuador,EC,ECU,218,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,2.2,Total
+Egypt,EG,EGY,818,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1988,1.6,Female
+Egypt,EG,EGY,818,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1991,2,Female
+Egypt,EG,EGY,818,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1992,2.4,Female
+Egypt,EG,EGY,818,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1995,3.1,Female
+Egypt,EG,EGY,818,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2003,3.2,Female
+Egypt,EG,EGY,818,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2005,2.8,Female
+Egypt,EG,EGY,818,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2008,3.9,Female
+Egypt,EG,EGY,818,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,4.9,Female
+Egypt,EG,EGY,818,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1988,1.7,Male
+Egypt,EG,EGY,818,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1991,2.1,Male
+Egypt,EG,EGY,818,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1992,2,Male
+Egypt,EG,EGY,818,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1995,3.2,Male
+Egypt,EG,EGY,818,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2003,3.8,Male
+Egypt,EG,EGY,818,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2005,3,Male
+Egypt,EG,EGY,818,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2008,4.7,Male
+Egypt,EG,EGY,818,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,5.4,Male
+Egypt,EG,EGY,818,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1988,1.7,Total
+Egypt,EG,EGY,818,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1991,2.1,Total
+Egypt,EG,EGY,818,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1992,2.2,Total
+Egypt,EG,EGY,818,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1995,3.1,Total
+Egypt,EG,EGY,818,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2003,3.5,Total
+Egypt,EG,EGY,818,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2005,2.9,Total
+Egypt,EG,EGY,818,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2008,4.3,Total
+Egypt,EG,EGY,818,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,5.1,Total
+El Salvador,SV,SLV,222,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1993,0.7,Female
+El Salvador,SV,SLV,222,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1998,0.9,Female
+El Salvador,SV,SLV,222,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2003,0.7,Female
+El Salvador,SV,SLV,222,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2008,0.3,Female
+El Salvador,SV,SLV,222,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,1.4,Female
+El Salvador,SV,SLV,222,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1993,1.3,Male
+El Salvador,SV,SLV,222,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1998,1.4,Male
+El Salvador,SV,SLV,222,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2003,0.4,Male
+El Salvador,SV,SLV,222,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2008,1.4,Male
+El Salvador,SV,SLV,222,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,1.9,Male
+El Salvador,SV,SLV,222,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1993,1,Total
+El Salvador,SV,SLV,222,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1998,1.1,Total
+El Salvador,SV,SLV,222,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2003,0.5,Total
+El Salvador,SV,SLV,222,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2008,0.9,Total
+El Salvador,SV,SLV,222,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,1.6,Total
+Equatorial Guinea,GQ,GNQ,226,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,4.8,Female
+Equatorial Guinea,GQ,GNQ,226,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,5.3,Male
+Equatorial Guinea,GQ,GNQ,226,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,5.1,Total
+Eritrea,ER,ERI,232,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1995,11.2,Female
+Eritrea,ER,ERI,232,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2002,9.4,Female
+Eritrea,ER,ERI,232,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,7.6,Female
+Eritrea,ER,ERI,232,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1995,10.3,Male
+Eritrea,ER,ERI,232,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2002,8.6,Male
+Eritrea,ER,ERI,232,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,7.7,Male
+Eritrea,ER,ERI,232,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1995,10.7,Total
+Eritrea,ER,ERI,232,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2002,9,Total
+Eritrea,ER,ERI,232,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,7.7,Total
+Estonia,EE,EST,233,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,1.7,Female
+Estonia,EE,EST,233,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,1.7,Male
+Estonia,EE,EST,233,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,1.7,Total
+Swaziland,SZ,SWZ,748,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,1.2,Female
+Swaziland,SZ,SWZ,748,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,1.1,Female
+Swaziland,SZ,SWZ,748,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,0.6,Female
+Swaziland,SZ,SWZ,748,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,1.5,Female
+Swaziland,SZ,SWZ,748,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,1,Male
+Swaziland,SZ,SWZ,748,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,2.1,Male
+Swaziland,SZ,SWZ,748,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,0.5,Male
+Swaziland,SZ,SWZ,748,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,1.1,Male
+Swaziland,SZ,SWZ,748,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,1.1,Total
+Swaziland,SZ,SWZ,748,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,1.6,Total
+Swaziland,SZ,SWZ,748,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,0.6,Total
+Swaziland,SZ,SWZ,748,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,1.3,Total
+Ethiopia,ET,ETH,231,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,6.1,Female
+Ethiopia,ET,ETH,231,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2005,6.5,Female
+Ethiopia,ET,ETH,231,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2011,5.2,Female
+Ethiopia,ET,ETH,231,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,5.1,Female
+Ethiopia,ET,ETH,231,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,6.3,Female
+Ethiopia,ET,ETH,231,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,3,Female
+Ethiopia,ET,ETH,231,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,7.4,Male
+Ethiopia,ET,ETH,231,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2005,7.3,Male
+Ethiopia,ET,ETH,231,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2011,6.2,Male
+Ethiopia,ET,ETH,231,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,5.5,Male
+Ethiopia,ET,ETH,231,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,5,Male
+Ethiopia,ET,ETH,231,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,4.3,Male
+Ethiopia,ET,ETH,231,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,6.7,Total
+Ethiopia,ET,ETH,231,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2005,6.9,Total
+Ethiopia,ET,ETH,231,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2011,5.7,Total
+Ethiopia,ET,ETH,231,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,5.3,Total
+Ethiopia,ET,ETH,231,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,5.7,Total
+Ethiopia,ET,ETH,231,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,3.7,Total
+Fiji,FJ,FJI,242,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2021,4.2,Female
+Fiji,FJ,FJI,242,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2021,2.6,Male
+Fiji,FJ,FJI,242,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2021,3.3,Total
+Gabon,GA,GAB,266,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,2.5,Female
+Gabon,GA,GAB,266,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,1.8,Female
+Gabon,GA,GAB,266,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,2.4,Male
+Gabon,GA,GAB,266,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,2,Male
+Gabon,GA,GAB,266,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,2.5,Total
+Gabon,GA,GAB,266,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,1.9,Total
+Gambia,GM,GMB,270,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,6.1,Female
+Gambia,GM,GMB,270,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,3.9,Female
+Gambia,GM,GMB,270,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,6.5,Female
+Gambia,GM,GMB,270,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,6.7,Female
+Gambia,GM,GMB,270,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2013,6.4,Female
+Gambia,GM,GMB,270,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",3/13/2018,4.1,Female
+Gambia,GM,GMB,270,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",4/9/2018,4.9,Female
+Gambia,GM,GMB,270,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2020,2.5,Female
+Gambia,GM,GMB,270,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,6,Male
+Gambia,GM,GMB,270,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,4.8,Male
+Gambia,GM,GMB,270,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,6.8,Male
+Gambia,GM,GMB,270,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,7.6,Male
+Gambia,GM,GMB,270,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2013,7.4,Male
+Gambia,GM,GMB,270,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",3/13/2018,4.6,Male
+Gambia,GM,GMB,270,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",4/9/2018,3.6,Male
+Gambia,GM,GMB,270,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2020,4.3,Male
+Gambia,GM,GMB,270,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,6,Total
+Gambia,GM,GMB,270,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,4.3,Total
+Gambia,GM,GMB,270,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,6.7,Total
+Gambia,GM,GMB,270,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,7.2,Total
+Gambia,GM,GMB,270,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2013,6.9,Total
+Gambia,GM,GMB,270,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",3/13/2018,4.3,Total
+Gambia,GM,GMB,270,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",4/9/2018,4.2,Total
+Gambia,GM,GMB,270,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2020,3.4,Total
+Georgia,GE,GEO,268,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2005,1.7,Female
+Georgia,GE,GEO,268,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2009,1.1,Female
+Georgia,GE,GEO,268,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,1,Female
+Georgia,GE,GEO,268,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2005,1.9,Male
+Georgia,GE,GEO,268,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2009,1.2,Male
+Georgia,GE,GEO,268,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,0.4,Male
+Georgia,GE,GEO,268,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2005,1.8,Total
+Georgia,GE,GEO,268,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2009,1.2,Total
+Georgia,GE,GEO,268,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,0.7,Total
+Ghana,GH,GHA,288,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1988,6,Female
+Ghana,GH,GHA,288,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1993,7.9,Female
+Ghana,GH,GHA,288,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1997,5,Female
+Ghana,GH,GHA,288,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1998,6.7,Female
+Ghana,GH,GHA,288,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2003,5.3,Female
+Ghana,GH,GHA,288,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,3.4,Female
+Ghana,GH,GHA,288,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2008,5.2,Female
+Ghana,GH,GHA,288,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2011,3.8,Female
+Ghana,GH,GHA,288,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,4.2,Female
+Ghana,GH,GHA,288,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2017,4.5,Female
+Ghana,GH,GHA,288,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1988,5.9,Male
+Ghana,GH,GHA,288,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1993,9.2,Male
+Ghana,GH,GHA,288,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1997,5.2,Male
+Ghana,GH,GHA,288,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1998,7.8,Male
+Ghana,GH,GHA,288,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2003,4.7,Male
+Ghana,GH,GHA,288,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,3.5,Male
+Ghana,GH,GHA,288,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2008,6.5,Male
+Ghana,GH,GHA,288,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2011,5.1,Male
+Ghana,GH,GHA,288,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,3.2,Male
+Ghana,GH,GHA,288,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2017,5.4,Male
+Ghana,GH,GHA,288,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1988,6,Total
+Ghana,GH,GHA,288,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1993,8.6,Total
+Ghana,GH,GHA,288,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1997,5.1,Total
+Ghana,GH,GHA,288,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1998,7.3,Total
+Ghana,GH,GHA,288,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2003,5,Total
+Ghana,GH,GHA,288,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,3.5,Total
+Ghana,GH,GHA,288,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2008,5.9,Total
+Ghana,GH,GHA,288,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2011,4.4,Total
+Ghana,GH,GHA,288,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,3.7,Total
+Ghana,GH,GHA,288,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2017,4.9,Total
+Greece,GR,GRC,300,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2003,0.5,Female
+Greece,GR,GRC,300,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2003,0.9,Male
+Greece,GR,GRC,300,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2003,0.7,Total
+Guatemala,GT,GTM,320,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1987,1.3,Female
+Guatemala,GT,GTM,320,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1995,1.5,Female
+Guatemala,GT,GTM,320,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1999,2.2,Female
+Guatemala,GT,GTM,320,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,1.6,Female
+Guatemala,GT,GTM,320,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2002,0.6,Female
+Guatemala,GT,GTM,320,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2009,0.5,Female
+Guatemala,GT,GTM,320,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2015,0.3,Female
+Guatemala,GT,GTM,320,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1987,1.4,Male
+Guatemala,GT,GTM,320,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1995,2.2,Male
+Guatemala,GT,GTM,320,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1999,1.4,Male
+Guatemala,GT,GTM,320,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,2,Male
+Guatemala,GT,GTM,320,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2002,0.8,Male
+Guatemala,GT,GTM,320,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2009,0.6,Male
+Guatemala,GT,GTM,320,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2015,0.5,Male
+Guatemala,GT,GTM,320,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1987,1.3,Total
+Guatemala,GT,GTM,320,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1995,1.8,Total
+Guatemala,GT,GTM,320,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1999,1.8,Total
+Guatemala,GT,GTM,320,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,1.8,Total
+Guatemala,GT,GTM,320,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2002,0.7,Total
+Guatemala,GT,GTM,320,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2009,0.5,Total
+Guatemala,GT,GTM,320,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2015,0.4,Total
+Guinea,GN,GIN,324,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1999,5.5,Female
+Guinea,GN,GIN,324,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2005,5.4,Female
+Guinea,GN,GIN,324,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2007,4.9,Female
+Guinea,GN,GIN,324,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1/6/2012,2.9,Female
+Guinea,GN,GIN,324,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",8/6/2012,5.7,Female
+Guinea,GN,GIN,324,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,4.7,Female
+Guinea,GN,GIN,324,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,6.1,Female
+Guinea,GN,GIN,324,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1999,6.5,Male
+Guinea,GN,GIN,324,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2005,6.3,Male
+Guinea,GN,GIN,324,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2007,5.3,Male
+Guinea,GN,GIN,324,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1/6/2012,4,Male
+Guinea,GN,GIN,324,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",8/6/2012,5.8,Male
+Guinea,GN,GIN,324,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,4.9,Male
+Guinea,GN,GIN,324,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,5.1,Male
+Guinea,GN,GIN,324,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1999,6,Total
+Guinea,GN,GIN,324,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2005,5.8,Total
+Guinea,GN,GIN,324,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2007,5.1,Total
+Guinea,GN,GIN,324,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1/6/2012,3.5,Total
+Guinea,GN,GIN,324,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",8/6/2012,5.8,Total
+Guinea,GN,GIN,324,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,4.8,Total
+Guinea,GN,GIN,324,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,5.6,Total
+Guinea-Bissau,GW,GNB,624,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,6.6,Female
+Guinea-Bissau,GW,GNB,624,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,4.1,Female
+Guinea-Bissau,GW,GNB,624,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,3.5,Female
+Guinea-Bissau,GW,GNB,624,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,3.9,Female
+Guinea-Bissau,GW,GNB,624,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1/15/2019,3.5,Female
+Guinea-Bissau,GW,GNB,624,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",9/15/2019,5,Female
+Guinea-Bissau,GW,GNB,624,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,7.1,Male
+Guinea-Bissau,GW,GNB,624,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,3.7,Male
+Guinea-Bissau,GW,GNB,624,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,4.5,Male
+Guinea-Bissau,GW,GNB,624,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,3.8,Male
+Guinea-Bissau,GW,GNB,624,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1/15/2019,3.5,Male
+Guinea-Bissau,GW,GNB,624,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",9/15/2019,5.6,Male
+Guinea-Bissau,GW,GNB,624,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,6.8,Total
+Guinea-Bissau,GW,GNB,624,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,3.9,Total
+Guinea-Bissau,GW,GNB,624,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,4,Total
+Guinea-Bissau,GW,GNB,624,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,3.8,Total
+Guinea-Bissau,GW,GNB,624,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1/15/2019,3.5,Total
+Guinea-Bissau,GW,GNB,624,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",9/15/2019,5.3,Total
+Guyana,GY,GUY,328,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1993,4.3,Female
+Guyana,GY,GUY,328,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,7.5,Female
+Guyana,GY,GUY,328,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,6.9,Female
+Guyana,GY,GUY,328,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2009,3.8,Female
+Guyana,GY,GUY,328,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,4.3,Female
+Guyana,GY,GUY,328,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,3.3,Female
+Guyana,GY,GUY,328,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1993,6.2,Male
+Guyana,GY,GUY,328,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,7.6,Male
+Guyana,GY,GUY,328,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,4.6,Male
+Guyana,GY,GUY,328,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2009,3.9,Male
+Guyana,GY,GUY,328,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,5.9,Male
+Guyana,GY,GUY,328,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,5.3,Male
+Guyana,GY,GUY,328,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1993,5.3,Total
+Guyana,GY,GUY,328,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,7.6,Total
+Guyana,GY,GUY,328,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,5.7,Total
+Guyana,GY,GUY,328,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2009,3.9,Total
+Guyana,GY,GUY,328,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,5.1,Total
+Guyana,GY,GUY,328,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,4.3,Total
+Haiti,HT,HTI,332,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1994,4.6,Female
+Haiti,HT,HTI,332,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,3.3,Female
+Haiti,HT,HTI,332,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,6.2,Female
+Haiti,HT,HTI,332,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,3,Female
+Haiti,HT,HTI,332,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2017,2.7,Female
+Haiti,HT,HTI,332,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1994,6,Male
+Haiti,HT,HTI,332,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,3.5,Male
+Haiti,HT,HTI,332,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,5.4,Male
+Haiti,HT,HTI,332,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,3.7,Male
+Haiti,HT,HTI,332,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2017,2.4,Male
+Haiti,HT,HTI,332,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1994,5.3,Total
+Haiti,HT,HTI,332,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,3.4,Total
+Haiti,HT,HTI,332,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,5.8,Total
+Haiti,HT,HTI,332,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,3.4,Total
+Haiti,HT,HTI,332,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2017,2.5,Total
+Honduras,HN,HND,340,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1991,1.3,Female
+Honduras,HN,HND,340,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1996,0.5,Female
+Honduras,HN,HND,340,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2001,0.7,Female
+Honduras,HN,HND,340,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,0.8,Female
+Honduras,HN,HND,340,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,0.9,Female
+Honduras,HN,HND,340,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,1.3,Female
+Honduras,HN,HND,340,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1991,1.4,Male
+Honduras,HN,HND,340,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1996,0.8,Male
+Honduras,HN,HND,340,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2001,0.7,Male
+Honduras,HN,HND,340,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,0.9,Male
+Honduras,HN,HND,340,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,0.9,Male
+Honduras,HN,HND,340,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,1.1,Male
+Honduras,HN,HND,340,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1991,1.4,Total
+Honduras,HN,HND,340,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1996,0.6,Total
+Honduras,HN,HND,340,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2001,0.7,Total
+Honduras,HN,HND,340,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,0.8,Total
+Honduras,HN,HND,340,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,0.9,Total
+Honduras,HN,HND,340,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,1.2,Total
+India,IN,IND,356,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1992,11.5,Female
+India,IN,IND,356,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1999,11.1,Female
+India,IN,IND,356,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,10.9,Female
+India,IN,IND,356,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2015,11.2,Female
+India,IN,IND,356,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2020,9.9,Female
+India,IN,IND,356,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1992,11.4,Male
+India,IN,IND,356,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1999,11.2,Male
+India,IN,IND,356,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,11,Male
+India,IN,IND,356,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2015,11.2,Male
+India,IN,IND,356,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2020,9.9,Male
+India,IN,IND,356,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1992,11.4,Total
+India,IN,IND,356,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1999,11.2,Total
+India,IN,IND,356,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,10.9,Total
+India,IN,IND,356,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2015,11.2,Total
+India,IN,IND,356,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2020,9.9,Total
+Iraq,IQ,IRQ,368,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,3.7,Female
+Iraq,IQ,IRQ,368,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,3,Female
+Iraq,IQ,IRQ,368,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2011,3.8,Female
+Iraq,IQ,IRQ,368,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,2.2,Female
+Iraq,IQ,IRQ,368,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,4.1,Male
+Iraq,IQ,IRQ,368,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,2.9,Male
+Iraq,IQ,IRQ,368,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2011,3.8,Male
+Iraq,IQ,IRQ,368,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,2.5,Male
+Iraq,IQ,IRQ,368,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,3.9,Total
+Iraq,IQ,IRQ,368,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,3,Total
+Iraq,IQ,IRQ,368,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2011,3.8,Total
+Iraq,IQ,IRQ,368,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,2.4,Total
+Jamaica,JM,JAM,388,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1989,2.2,Female
+Jamaica,JM,JAM,388,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1991,2.2,Female
+Jamaica,JM,JAM,388,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1992,2.3,Female
+Jamaica,JM,JAM,388,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1993,2.4,Female
+Jamaica,JM,JAM,388,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1994,1.2,Female
+Jamaica,JM,JAM,388,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1995,4.6,Female
+Jamaica,JM,JAM,388,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1996,1.6,Female
+Jamaica,JM,JAM,388,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1997,2.5,Female
+Jamaica,JM,JAM,388,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1998,1.3,Female
+Jamaica,JM,JAM,388,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1999,2.1,Female
+Jamaica,JM,JAM,388,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,1.1,Female
+Jamaica,JM,JAM,388,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2001,2,Female
+Jamaica,JM,JAM,388,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2002,1,Female
+Jamaica,JM,JAM,388,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2004,3.3,Female
+Jamaica,JM,JAM,388,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,2.3,Female
+Jamaica,JM,JAM,388,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2007,2.4,Female
+Jamaica,JM,JAM,388,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2008,2.3,Female
+Jamaica,JM,JAM,388,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,1.9,Female
+Jamaica,JM,JAM,388,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,1.7,Female
+Jamaica,JM,JAM,388,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,3,Female
+Jamaica,JM,JAM,388,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,2.7,Female
+Jamaica,JM,JAM,388,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,2.8,Female
+Jamaica,JM,JAM,388,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1989,3.3,Male
+Jamaica,JM,JAM,388,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1991,4.5,Male
+Jamaica,JM,JAM,388,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1992,2.1,Male
+Jamaica,JM,JAM,388,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1993,1.1,Male
+Jamaica,JM,JAM,388,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1994,2.2,Male
+Jamaica,JM,JAM,388,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1995,3.2,Male
+Jamaica,JM,JAM,388,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1996,3.7,Male
+Jamaica,JM,JAM,388,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1997,2,Male
+Jamaica,JM,JAM,388,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1998,3.4,Male
+Jamaica,JM,JAM,388,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1999,2.4,Male
+Jamaica,JM,JAM,388,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,2.3,Male
+Jamaica,JM,JAM,388,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2001,1.5,Male
+Jamaica,JM,JAM,388,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2002,2.8,Male
+Jamaica,JM,JAM,388,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2004,3.2,Male
+Jamaica,JM,JAM,388,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,2.1,Male
+Jamaica,JM,JAM,388,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2007,1.3,Male
+Jamaica,JM,JAM,388,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2008,2.1,Male
+Jamaica,JM,JAM,388,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,5,Male
+Jamaica,JM,JAM,388,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,2.5,Male
+Jamaica,JM,JAM,388,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,3.2,Male
+Jamaica,JM,JAM,388,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,1.7,Male
+Jamaica,JM,JAM,388,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,2.1,Male
+Jamaica,JM,JAM,388,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1989,2.7,Total
+Jamaica,JM,JAM,388,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1991,3.4,Total
+Jamaica,JM,JAM,388,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1992,2.2,Total
+Jamaica,JM,JAM,388,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1993,1.8,Total
+Jamaica,JM,JAM,388,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1994,1.7,Total
+Jamaica,JM,JAM,388,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1995,3.9,Total
+Jamaica,JM,JAM,388,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1996,2.7,Total
+Jamaica,JM,JAM,388,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1997,2.3,Total
+Jamaica,JM,JAM,388,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1998,2.3,Total
+Jamaica,JM,JAM,388,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1999,2.3,Total
+Jamaica,JM,JAM,388,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,1.8,Total
+Jamaica,JM,JAM,388,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2001,1.8,Total
+Jamaica,JM,JAM,388,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2002,1.9,Total
+Jamaica,JM,JAM,388,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2004,3.2,Total
+Jamaica,JM,JAM,388,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,2.2,Total
+Jamaica,JM,JAM,388,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2007,1.8,Total
+Jamaica,JM,JAM,388,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2008,2.2,Total
+Jamaica,JM,JAM,388,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,3.5,Total
+Jamaica,JM,JAM,388,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,2.1,Total
+Jamaica,JM,JAM,388,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,3.1,Total
+Jamaica,JM,JAM,388,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,2.2,Total
+Jamaica,JM,JAM,388,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,2.5,Total
+Jordan,JO,JOR,400,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1990,2.4,Female
+Jordan,JO,JOR,400,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1997,1.8,Female
+Jordan,JO,JOR,400,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2002,1.4,Female
+Jordan,JO,JOR,400,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2009,1.5,Female
+Jordan,JO,JOR,400,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,1.6,Female
+Jordan,JO,JOR,400,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,0.4,Female
+Jordan,JO,JOR,400,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1990,3.2,Male
+Jordan,JO,JOR,400,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1997,1.6,Male
+Jordan,JO,JOR,400,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2002,2,Male
+Jordan,JO,JOR,400,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2009,1.5,Male
+Jordan,JO,JOR,400,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,1.7,Male
+Jordan,JO,JOR,400,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,0.2,Male
+Jordan,JO,JOR,400,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1990,2.8,Total
+Jordan,JO,JOR,400,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1997,1.7,Total
+Jordan,JO,JOR,400,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2002,1.7,Total
+Jordan,JO,JOR,400,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2009,1.5,Total
+Jordan,JO,JOR,400,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,1.7,Total
+Jordan,JO,JOR,400,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,0.3,Total
+Kazakhstan,KZ,KAZ,398,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1995,2.8,Female
+Kazakhstan,KZ,KAZ,398,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1999,1,Female
+Kazakhstan,KZ,KAZ,398,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,2.4,Female
+Kazakhstan,KZ,KAZ,398,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,2.6,Female
+Kazakhstan,KZ,KAZ,398,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2015,2.2,Female
+Kazakhstan,KZ,KAZ,398,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1995,4.8,Male
+Kazakhstan,KZ,KAZ,398,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1999,2,Male
+Kazakhstan,KZ,KAZ,398,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,3.4,Male
+Kazakhstan,KZ,KAZ,398,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,3.1,Male
+Kazakhstan,KZ,KAZ,398,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2015,2.1,Male
+Kazakhstan,KZ,KAZ,398,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1995,3.7,Total
+Kazakhstan,KZ,KAZ,398,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1999,1.5,Total
+Kazakhstan,KZ,KAZ,398,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,3,Total
+Kazakhstan,KZ,KAZ,398,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,2.8,Total
+Kazakhstan,KZ,KAZ,398,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2015,2.1,Total
+Kenya,KE,KEN,404,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1993,3.5,Female
+Kenya,KE,KEN,404,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1994,3.9,Female
+Kenya,KE,KEN,404,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1998,4.4,Female
+Kenya,KE,KEN,404,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,4.3,Female
+Kenya,KE,KEN,404,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2003,2.5,Female
+Kenya,KE,KEN,404,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2005,4.1,Female
+Kenya,KE,KEN,404,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2008,3.9,Female
+Kenya,KE,KEN,404,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,2.6,Female
+Kenya,KE,KEN,404,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1993,3.8,Male
+Kenya,KE,KEN,404,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1994,3.9,Male
+Kenya,KE,KEN,404,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1998,4.6,Male
+Kenya,KE,KEN,404,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,3.6,Male
+Kenya,KE,KEN,404,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2003,4,Male
+Kenya,KE,KEN,404,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2005,3.7,Male
+Kenya,KE,KEN,404,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2008,4.2,Male
+Kenya,KE,KEN,404,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,2.7,Male
+Kenya,KE,KEN,404,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1993,3.7,Total
+Kenya,KE,KEN,404,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1994,3.9,Total
+Kenya,KE,KEN,404,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1998,4.5,Total
+Kenya,KE,KEN,404,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,3.9,Total
+Kenya,KE,KEN,404,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2003,3.2,Total
+Kenya,KE,KEN,404,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2005,3.9,Total
+Kenya,KE,KEN,404,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2008,4,Total
+Kenya,KE,KEN,404,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,2.7,Total
+Kiribati,KI,KIR,296,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,2.2,Female
+Kiribati,KI,KIR,296,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,1.6,Male
+Kiribati,KI,KIR,296,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,1.9,Total
+Kyrgyzstan,KG,KGZ,417,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1997,1.5,Female
+Kyrgyzstan,KG,KGZ,417,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,4.2,Female
+Kyrgyzstan,KG,KGZ,417,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,1.7,Female
+Kyrgyzstan,KG,KGZ,417,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,1.9,Female
+Kyrgyzstan,KG,KGZ,417,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,1.4,Female
+Kyrgyzstan,KG,KGZ,417,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1997,2,Male
+Kyrgyzstan,KG,KGZ,417,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,2.3,Male
+Kyrgyzstan,KG,KGZ,417,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,1.5,Male
+Kyrgyzstan,KG,KGZ,417,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,1.9,Male
+Kyrgyzstan,KG,KGZ,417,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,1.2,Male
+Kyrgyzstan,KG,KGZ,417,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1997,1.8,Total
+Kyrgyzstan,KG,KGZ,417,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,3.2,Total
+Kyrgyzstan,KG,KGZ,417,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,1.6,Total
+Kyrgyzstan,KG,KGZ,417,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,1.9,Total
+Kyrgyzstan,KG,KGZ,417,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,1.3,Total
+Lao People's Democratic Republic,LA,LAO,418,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,10,Female
+Lao People's Democratic Republic,LA,LAO,418,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,4.8,Female
+Lao People's Democratic Republic,LA,LAO,418,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2011,3.1,Female
+Lao People's Democratic Republic,LA,LAO,418,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2015,5.8,Female
+Lao People's Democratic Republic,LA,LAO,418,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2017,5.1,Female
+Lao People's Democratic Republic,LA,LAO,418,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,8.4,Male
+Lao People's Democratic Republic,LA,LAO,418,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,5,Male
+Lao People's Democratic Republic,LA,LAO,418,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2011,3.8,Male
+Lao People's Democratic Republic,LA,LAO,418,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2015,6.2,Male
+Lao People's Democratic Republic,LA,LAO,418,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2017,4.8,Male
+Lao People's Democratic Republic,LA,LAO,418,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,9.2,Total
+Lao People's Democratic Republic,LA,LAO,418,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,4.9,Total
+Lao People's Democratic Republic,LA,LAO,418,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2011,3.5,Total
+Lao People's Democratic Republic,LA,LAO,418,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2015,6,Total
+Lao People's Democratic Republic,LA,LAO,418,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2017,4.9,Total
+Lesotho,LS,LSO,426,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2004,2.9,Female
+Lesotho,LS,LSO,426,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2009,2.1,Female
+Lesotho,LS,LSO,426,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,2.1,Female
+Lesotho,LS,LSO,426,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,0.9,Female
+Lesotho,LS,LSO,426,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2004,2.8,Male
+Lesotho,LS,LSO,426,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2009,1.9,Male
+Lesotho,LS,LSO,426,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,1.3,Male
+Lesotho,LS,LSO,426,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,1.3,Male
+Lesotho,LS,LSO,426,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2004,2.9,Total
+Lesotho,LS,LSO,426,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2009,2,Total
+Lesotho,LS,LSO,426,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,1.7,Total
+Lesotho,LS,LSO,426,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,1.1,Total
+Liberia,LR,LBR,430,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,3.9,Female
+Liberia,LR,LBR,430,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2007,4.3,Female
+Liberia,LR,LBR,430,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,2.5,Female
+Liberia,LR,LBR,430,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2013,3.5,Female
+Liberia,LR,LBR,430,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,2.7,Female
+Liberia,LR,LBR,430,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,2.2,Female
+Liberia,LR,LBR,430,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,5.3,Male
+Liberia,LR,LBR,430,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2007,5,Male
+Liberia,LR,LBR,430,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,1.8,Male
+Liberia,LR,LBR,430,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2013,3.7,Male
+Liberia,LR,LBR,430,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,3.2,Male
+Liberia,LR,LBR,430,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,2.5,Male
+Liberia,LR,LBR,430,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,4.6,Total
+Liberia,LR,LBR,430,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2007,4.6,Total
+Liberia,LR,LBR,430,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,2.2,Total
+Liberia,LR,LBR,430,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2013,3.6,Total
+Liberia,LR,LBR,430,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,3,Total
+Liberia,LR,LBR,430,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,2.3,Total
+Libyan Arab Jamahiriya,LY,LBY,434,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1995,2,Female
+Libyan Arab Jamahiriya,LY,LBY,434,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1995,2.4,Male
+Libyan Arab Jamahiriya,LY,LBY,434,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1995,2.2,Total
+Madagascar,MG,MDG,450,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1992,3,Female
+Madagascar,MG,MDG,450,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1997,4.1,Female
+Madagascar,MG,MDG,450,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2004,7.1,Female
+Madagascar,MG,MDG,450,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,4.1,Female
+Madagascar,MG,MDG,450,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,3.4,Female
+Madagascar,MG,MDG,450,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1992,4.7,Male
+Madagascar,MG,MDG,450,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1997,6.6,Male
+Madagascar,MG,MDG,450,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2004,8.1,Male
+Madagascar,MG,MDG,450,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,5.3,Male
+Madagascar,MG,MDG,450,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,4.4,Male
+Madagascar,MG,MDG,450,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1992,3.9,Total
+Madagascar,MG,MDG,450,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1997,5.4,Total
+Madagascar,MG,MDG,450,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2004,7.6,Total
+Madagascar,MG,MDG,450,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,4.7,Total
+Madagascar,MG,MDG,450,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,3.9,Total
+Malawi,MW,MWI,454,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1992,3.6,Female
+Malawi,MW,MWI,454,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1998,4.1,Female
+Malawi,MW,MWI,454,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,3.7,Female
+Malawi,MW,MWI,454,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2002,3.6,Female
+Malawi,MW,MWI,454,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2004,2.8,Female
+Malawi,MW,MWI,454,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,2,Female
+Malawi,MW,MWI,454,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,2.3,Female
+Malawi,MW,MWI,454,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,2.1,Female
+Malawi,MW,MWI,454,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2015,1.8,Female
+Malawi,MW,MWI,454,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1/15/2016,3.3,Female
+Malawi,MW,MWI,454,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",5/11/2016,1.3,Female
+Malawi,MW,MWI,454,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",12/1/2016,2.9,Female
+Malawi,MW,MWI,454,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2017,1.7,Female
+Malawi,MW,MWI,454,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,0.5,Female
+Malawi,MW,MWI,454,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,0.6,Female
+Malawi,MW,MWI,454,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",4/16/2020,1.5,Female
+Malawi,MW,MWI,454,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",12/11/2020,0.6,Female
+Malawi,MW,MWI,454,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1992,3.1,Male
+Malawi,MW,MWI,454,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1998,4.2,Male
+Malawi,MW,MWI,454,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,3.8,Male
+Malawi,MW,MWI,454,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2002,3.4,Male
+Malawi,MW,MWI,454,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2004,3,Male
+Malawi,MW,MWI,454,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,2.6,Male
+Malawi,MW,MWI,454,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,2.1,Male
+Malawi,MW,MWI,454,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,2.5,Male
+Malawi,MW,MWI,454,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2015,2,Male
+Malawi,MW,MWI,454,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1/15/2016,2,Male
+Malawi,MW,MWI,454,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",5/11/2016,1.5,Male
+Malawi,MW,MWI,454,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",12/1/2016,2.1,Male
+Malawi,MW,MWI,454,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2017,1.5,Male
+Malawi,MW,MWI,454,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,0.9,Male
+Malawi,MW,MWI,454,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,0.1,Male
+Malawi,MW,MWI,454,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",4/16/2020,1.4,Male
+Malawi,MW,MWI,454,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",12/11/2020,1.8,Male
+Malawi,MW,MWI,454,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1992,3.4,Total
+Malawi,MW,MWI,454,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1998,4.2,Total
+Malawi,MW,MWI,454,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,3.8,Total
+Malawi,MW,MWI,454,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2002,3.5,Total
+Malawi,MW,MWI,454,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2004,2.9,Total
+Malawi,MW,MWI,454,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,2.3,Total
+Malawi,MW,MWI,454,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,2.2,Total
+Malawi,MW,MWI,454,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,2.3,Total
+Malawi,MW,MWI,454,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2015,1.9,Total
+Malawi,MW,MWI,454,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1/15/2016,2.7,Total
+Malawi,MW,MWI,454,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",5/11/2016,1.4,Total
+Malawi,MW,MWI,454,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",12/1/2016,2.5,Total
+Malawi,MW,MWI,454,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2017,1.6,Total
+Malawi,MW,MWI,454,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,0.7,Total
+Malawi,MW,MWI,454,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,0.4,Total
+Malawi,MW,MWI,454,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",4/16/2020,1.4,Total
+Malawi,MW,MWI,454,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",12/11/2020,1.2,Total
+Maldives,MV,MDV,462,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2009,7.2,Female
+Maldives,MV,MDV,462,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2017,5.7,Female
+Maldives,MV,MDV,462,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2009,7.5,Male
+Maldives,MV,MDV,462,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2017,7.7,Male
+Maldives,MV,MDV,462,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2009,7.3,Total
+Maldives,MV,MDV,462,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2017,6.8,Total
+Mali,ML,MLI,466,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1987,9,Female
+Mali,ML,MLI,466,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1996,14,Female
+Mali,ML,MLI,466,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2001,7.1,Female
+Mali,ML,MLI,466,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,8.7,Female
+Mali,ML,MLI,466,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,5.1,Female
+Mali,ML,MLI,466,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2011,7.1,Female
+Mali,ML,MLI,466,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,9.3,Female
+Mali,ML,MLI,466,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",5/22/2015,8.9,Female
+Mali,ML,MLI,466,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",9/5/2015,8.4,Female
+Mali,ML,MLI,466,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,7.4,Female
+Mali,ML,MLI,466,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2017,7.2,Female
+Mali,ML,MLI,466,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",7/24/2018,5.5,Female
+Mali,ML,MLI,466,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",9/27/2018,5.7,Female
+Mali,ML,MLI,466,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,5.8,Female
+Mali,ML,MLI,466,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2020,3.9,Female
+Mali,ML,MLI,466,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2021,6.2,Female
+Mali,ML,MLI,466,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1987,10.8,Male
+Mali,ML,MLI,466,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1996,14,Male
+Mali,ML,MLI,466,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2001,7,Male
+Mali,ML,MLI,466,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,8.5,Male
+Mali,ML,MLI,466,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,6.7,Male
+Mali,ML,MLI,466,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2011,7.4,Male
+Mali,ML,MLI,466,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,9.1,Male
+Mali,ML,MLI,466,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",5/22/2015,8.7,Male
+Mali,ML,MLI,466,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",9/5/2015,9.4,Male
+Mali,ML,MLI,466,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,7.3,Male
+Mali,ML,MLI,466,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2017,8,Male
+Mali,ML,MLI,466,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",7/24/2018,7.7,Male
+Mali,ML,MLI,466,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",9/27/2018,6.8,Male
+Mali,ML,MLI,466,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,7,Male
+Mali,ML,MLI,466,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2020,5.9,Male
+Mali,ML,MLI,466,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2021,7.8,Male
+Mali,ML,MLI,466,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1987,9.9,Total
+Mali,ML,MLI,466,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1996,14,Total
+Mali,ML,MLI,466,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2001,7.1,Total
+Mali,ML,MLI,466,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,8.6,Total
+Mali,ML,MLI,466,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,5.9,Total
+Mali,ML,MLI,466,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2011,7.3,Total
+Mali,ML,MLI,466,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,9.2,Total
+Mali,ML,MLI,466,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",5/22/2015,8.8,Total
+Mali,ML,MLI,466,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",9/5/2015,8.9,Total
+Mali,ML,MLI,466,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,7.3,Total
+Mali,ML,MLI,466,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2017,7.6,Total
+Mali,ML,MLI,466,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",7/24/2018,6.6,Total
+Mali,ML,MLI,466,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",9/27/2018,6.2,Total
+Mali,ML,MLI,466,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,6.4,Total
+Mali,ML,MLI,466,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2020,4.9,Total
+Mali,ML,MLI,466,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2021,7,Total
+Marshall Islands,MH,MHL,584,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2017,0.9,Female
+Marshall Islands,MH,MHL,584,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2017,2.7,Male
+Marshall Islands,MH,MHL,584,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2017,1.8,Total
+Mauritania,MR,MRT,478,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,6.9,Female
+Mauritania,MR,MRT,478,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2007,8.2,Female
+Mauritania,MR,MRT,478,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2008,5.4,Female
+Mauritania,MR,MRT,478,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2011,8.8,Female
+Mauritania,MR,MRT,478,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,8.1,Female
+Mauritania,MR,MRT,478,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2015,9.2,Female
+Mauritania,MR,MRT,478,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,6.8,Female
+Mauritania,MR,MRT,478,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,8,Female
+Mauritania,MR,MRT,478,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2020,4.3,Female
+Mauritania,MR,MRT,478,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2021,7,Female
+Mauritania,MR,MRT,478,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,8,Male
+Mauritania,MR,MRT,478,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2007,9,Male
+Mauritania,MR,MRT,478,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2008,6.7,Male
+Mauritania,MR,MRT,478,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2011,9,Male
+Mauritania,MR,MRT,478,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,9.4,Male
+Mauritania,MR,MRT,478,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2015,10.9,Male
+Mauritania,MR,MRT,478,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,9.4,Male
+Mauritania,MR,MRT,478,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,8.6,Male
+Mauritania,MR,MRT,478,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2020,5,Male
+Mauritania,MR,MRT,478,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2021,9.1,Male
+Mauritania,MR,MRT,478,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,7.5,Total
+Mauritania,MR,MRT,478,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2007,8.6,Total
+Mauritania,MR,MRT,478,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2008,6.1,Total
+Mauritania,MR,MRT,478,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2011,8.9,Total
+Mauritania,MR,MRT,478,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,8.8,Total
+Mauritania,MR,MRT,478,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2015,10,Total
+Mauritania,MR,MRT,478,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,8.1,Total
+Mauritania,MR,MRT,478,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,8.3,Total
+Mauritania,MR,MRT,478,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2020,4.7,Total
+Mauritania,MR,MRT,478,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2021,8,Total
+Mexico,MX,MEX,484,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1988,3.6,Female
+Mexico,MX,MEX,484,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1998,1.3,Female
+Mexico,MX,MEX,484,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,1.2,Female
+Mexico,MX,MEX,484,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,1,Female
+Mexico,MX,MEX,484,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2015,0.4,Female
+Mexico,MX,MEX,484,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,0.9,Female
+Mexico,MX,MEX,484,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,1.6,Female
+Mexico,MX,MEX,484,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2020,0.9,Female
+Mexico,MX,MEX,484,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2021,1.2,Female
+Mexico,MX,MEX,484,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1988,4.2,Male
+Mexico,MX,MEX,484,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1998,1.4,Male
+Mexico,MX,MEX,484,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,1.4,Male
+Mexico,MX,MEX,484,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,1.1,Male
+Mexico,MX,MEX,484,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2015,0.6,Male
+Mexico,MX,MEX,484,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,1.7,Male
+Mexico,MX,MEX,484,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,0.8,Male
+Mexico,MX,MEX,484,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2020,1.2,Male
+Mexico,MX,MEX,484,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2021,0.7,Male
+Mexico,MX,MEX,484,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1988,3.9,Total
+Mexico,MX,MEX,484,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1998,1.4,Total
+Mexico,MX,MEX,484,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,1.3,Total
+Mexico,MX,MEX,484,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,1.1,Total
+Mexico,MX,MEX,484,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2015,0.5,Total
+Mexico,MX,MEX,484,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,1.3,Total
+Mexico,MX,MEX,484,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,1.2,Total
+Mexico,MX,MEX,484,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2020,1,Total
+Mexico,MX,MEX,484,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2021,0.9,Total
+Mongolia,MN,MNG,496,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,4.1,Female
+Mongolia,MN,MNG,496,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2005,1.8,Female
+Mongolia,MN,MNG,496,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",8/22/2010,1.3,Female
+Mongolia,MN,MNG,496,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",10/24/2010,1.3,Female
+Mongolia,MN,MNG,496,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2013,0.3,Female
+Mongolia,MN,MNG,496,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,0.8,Female
+Mongolia,MN,MNG,496,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,0.6,Female
+Mongolia,MN,MNG,496,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,4.1,Male
+Mongolia,MN,MNG,496,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2005,1.2,Male
+Mongolia,MN,MNG,496,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",8/22/2010,1.1,Male
+Mongolia,MN,MNG,496,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",10/24/2010,0.9,Male
+Mongolia,MN,MNG,496,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2013,0.7,Male
+Mongolia,MN,MNG,496,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,0.5,Male
+Mongolia,MN,MNG,496,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,0.3,Male
+Mongolia,MN,MNG,496,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,4.1,Total
+Mongolia,MN,MNG,496,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2005,1.5,Total
+Mongolia,MN,MNG,496,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",8/22/2010,1.2,Total
+Mongolia,MN,MNG,496,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",10/24/2010,1.1,Total
+Mongolia,MN,MNG,496,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2013,0.5,Total
+Mongolia,MN,MNG,496,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,0.6,Total
+Mongolia,MN,MNG,496,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,0.5,Total
+Montenegro,ME,MNE,499,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2005,1,Female
+Montenegro,ME,MNE,499,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2013,1.3,Female
+Montenegro,ME,MNE,499,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,0.4,Female
+Montenegro,ME,MNE,499,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2005,2.3,Male
+Montenegro,ME,MNE,499,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2013,1.6,Male
+Montenegro,ME,MNE,499,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,1.6,Male
+Montenegro,ME,MNE,499,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2005,1.7,Total
+Montenegro,ME,MNE,499,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2013,1.5,Total
+Montenegro,ME,MNE,499,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,1.1,Total
+Morocco,MA,MAR,504,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1987,1.9,Female
+Morocco,MA,MAR,504,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1992,1.4,Female
+Morocco,MA,MAR,504,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1997,3,Female
+Morocco,MA,MAR,504,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2003,5.4,Female
+Morocco,MA,MAR,504,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2011,1.5,Female
+Morocco,MA,MAR,504,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2017,1.5,Female
+Morocco,MA,MAR,504,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1987,2.2,Male
+Morocco,MA,MAR,504,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1992,1.7,Male
+Morocco,MA,MAR,504,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1997,2.9,Male
+Morocco,MA,MAR,504,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2003,5.3,Male
+Morocco,MA,MAR,504,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2011,1.9,Male
+Morocco,MA,MAR,504,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2017,1.6,Male
+Morocco,MA,MAR,504,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1987,2.1,Total
+Morocco,MA,MAR,504,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1992,1.6,Total
+Morocco,MA,MAR,504,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1997,3,Total
+Morocco,MA,MAR,504,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2003,5.4,Total
+Morocco,MA,MAR,504,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2011,1.7,Total
+Morocco,MA,MAR,504,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2017,1.5,Total
+Mozambique,MZ,MOZ,508,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1997,5.8,Female
+Mozambique,MZ,MOZ,508,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2001,4.2,Female
+Mozambique,MZ,MOZ,508,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2003,3,Female
+Mozambique,MZ,MOZ,508,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2008,2,Female
+Mozambique,MZ,MOZ,508,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2011,3.3,Female
+Mozambique,MZ,MOZ,508,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2015,2.8,Female
+Mozambique,MZ,MOZ,508,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2020,3.1,Female
+Mozambique,MZ,MOZ,508,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1997,7,Male
+Mozambique,MZ,MOZ,508,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2001,4.4,Male
+Mozambique,MZ,MOZ,508,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2003,2.6,Male
+Mozambique,MZ,MOZ,508,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2008,3,Male
+Mozambique,MZ,MOZ,508,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2011,3.9,Male
+Mozambique,MZ,MOZ,508,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2015,2.8,Male
+Mozambique,MZ,MOZ,508,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2020,2.4,Male
+Mozambique,MZ,MOZ,508,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1997,6.4,Total
+Mozambique,MZ,MOZ,508,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2001,4.3,Total
+Mozambique,MZ,MOZ,508,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2003,2.8,Total
+Mozambique,MZ,MOZ,508,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2008,2.5,Total
+Mozambique,MZ,MOZ,508,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2011,3.6,Total
+Mozambique,MZ,MOZ,508,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2015,2.8,Total
+Mozambique,MZ,MOZ,508,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2020,2.8,Total
+Burma,MM,MMR,104,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,5.9,Female
+Burma,MM,MMR,104,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2003,6.6,Female
+Burma,MM,MMR,104,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,4,Female
+Burma,MM,MMR,104,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,6.4,Male
+Burma,MM,MMR,104,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2003,6.3,Male
+Burma,MM,MMR,104,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,4.6,Male
+Burma,MM,MMR,104,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,6.1,Total
+Burma,MM,MMR,104,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2003,6.5,Total
+Burma,MM,MMR,104,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,4.3,Total
+Namibia,,NAM,516,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1992,5.9,Female
+Namibia,,NAM,516,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,6.2,Female
+Namibia,,NAM,516,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2007,5.6,Female
+Namibia,,NAM,516,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2013,3.3,Female
+Namibia,,NAM,516,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1992,5.7,Male
+Namibia,,NAM,516,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,5.7,Male
+Namibia,,NAM,516,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2007,4.5,Male
+Namibia,,NAM,516,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2013,5.1,Male
+Namibia,,NAM,516,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1992,5.8,Total
+Namibia,,NAM,516,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,5.9,Total
+Namibia,,NAM,516,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2007,5,Total
+Namibia,,NAM,516,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2013,4.2,Total
+Nepal,NP,NPL,524,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1996,8.3,Female
+Nepal,NP,NPL,524,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1998,4.1,Female
+Nepal,NP,NPL,524,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2001,6.3,Female
+Nepal,NP,NPL,524,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,8.6,Female
+Nepal,NP,NPL,524,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2011,7.1,Female
+Nepal,NP,NPL,524,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,7.2,Female
+Nepal,NP,NPL,524,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",5/15/2016,6.2,Female
+Nepal,NP,NPL,524,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",10/1/2016,7.1,Female
+Nepal,NP,NPL,524,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,7.2,Female
+Nepal,NP,NPL,524,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1996,7.6,Male
+Nepal,NP,NPL,524,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1998,4.4,Male
+Nepal,NP,NPL,524,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2001,7,Male
+Nepal,NP,NPL,524,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,7.5,Male
+Nepal,NP,NPL,524,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2011,6.7,Male
+Nepal,NP,NPL,524,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,6.4,Male
+Nepal,NP,NPL,524,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",5/15/2016,7,Male
+Nepal,NP,NPL,524,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",10/1/2016,6.4,Male
+Nepal,NP,NPL,524,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,8.1,Male
+Nepal,NP,NPL,524,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1996,7.9,Total
+Nepal,NP,NPL,524,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1998,4.3,Total
+Nepal,NP,NPL,524,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2001,6.6,Total
+Nepal,NP,NPL,524,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,8.1,Total
+Nepal,NP,NPL,524,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2011,6.9,Total
+Nepal,NP,NPL,524,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,6.8,Total
+Nepal,NP,NPL,524,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",5/15/2016,6.6,Total
+Nepal,NP,NPL,524,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",10/1/2016,6.8,Total
+Nepal,NP,NPL,524,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,7.6,Total
+Netherlands,NL,NLD,528,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1996,0.9,Female
+Netherlands,NL,NLD,528,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2009,0.7,Female
+Netherlands,NL,NLD,528,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1996,1,Male
+Netherlands,NL,NLD,528,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2009,1.4,Male
+Netherlands,NL,NLD,528,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1996,0.9,Total
+Netherlands,NL,NLD,528,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2009,1.1,Total
+Nicaragua,NI,NIC,558,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1993,1.6,Female
+Nicaragua,NI,NIC,558,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1998,1.6,Female
+Nicaragua,NI,NIC,558,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2001,1.4,Female
+Nicaragua,NI,NIC,558,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2007,0.8,Female
+Nicaragua,NI,NIC,558,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,1.5,Female
+Nicaragua,NI,NIC,558,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1993,1.9,Male
+Nicaragua,NI,NIC,558,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1998,2.4,Male
+Nicaragua,NI,NIC,558,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2001,1.4,Male
+Nicaragua,NI,NIC,558,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2007,0.8,Male
+Nicaragua,NI,NIC,558,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,1.5,Male
+Nicaragua,NI,NIC,558,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1993,1.8,Total
+Nicaragua,NI,NIC,558,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1998,2,Total
+Nicaragua,NI,NIC,558,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2001,1.4,Total
+Nicaragua,NI,NIC,558,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2007,0.8,Total
+Nicaragua,NI,NIC,558,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,1.5,Total
+Niger,NE,NER,562,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1992,10.6,Female
+Niger,NE,NER,562,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1998,14.4,Female
+Niger,NE,NER,562,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,7.8,Female
+Niger,NE,NER,562,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",3/28/2006,5.8,Female
+Niger,NE,NER,562,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",11/1/2006,6,Female
+Niger,NE,NER,562,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2007,6.9,Female
+Niger,NE,NER,562,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2008,7.4,Female
+Niger,NE,NER,562,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2009,7.3,Female
+Niger,NE,NER,562,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",6/5/2010,9.5,Female
+Niger,NE,NER,562,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",10/29/2010,9,Female
+Niger,NE,NER,562,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2011,7.6,Female
+Niger,NE,NER,562,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",4/11/2012,9.7,Female
+Niger,NE,NER,562,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",7/16/2012,8.9,Female
+Niger,NE,NER,562,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2013,7.3,Female
+Niger,NE,NER,562,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,8.4,Female
+Niger,NE,NER,562,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2015,6.8,Female
+Niger,NE,NER,562,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,5.7,Female
+Niger,NE,NER,562,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,7.8,Female
+Niger,NE,NER,562,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,6.4,Female
+Niger,NE,NER,562,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2020,7,Female
+Niger,NE,NER,562,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2021,5.8,Female
+Niger,NE,NER,562,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1992,10.8,Male
+Niger,NE,NER,562,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1998,14,Male
+Niger,NE,NER,562,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,9.1,Male
+Niger,NE,NER,562,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",3/28/2006,6.7,Male
+Niger,NE,NER,562,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",11/1/2006,6.7,Male
+Niger,NE,NER,562,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2007,7.6,Male
+Niger,NE,NER,562,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2008,9.2,Male
+Niger,NE,NER,562,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2009,7.3,Male
+Niger,NE,NER,562,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",6/5/2010,11,Male
+Niger,NE,NER,562,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",10/29/2010,9.8,Male
+Niger,NE,NER,562,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2011,8.1,Male
+Niger,NE,NER,562,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",4/11/2012,10.4,Male
+Niger,NE,NER,562,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",7/16/2012,8.9,Male
+Niger,NE,NER,562,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2013,8.7,Male
+Niger,NE,NER,562,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,10,Male
+Niger,NE,NER,562,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2015,8.4,Male
+Niger,NE,NER,562,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,7.3,Male
+Niger,NE,NER,562,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,9.2,Male
+Niger,NE,NER,562,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,6.1,Male
+Niger,NE,NER,562,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2020,8.8,Male
+Niger,NE,NER,562,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2021,6.5,Male
+Niger,NE,NER,562,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1992,10.7,Total
+Niger,NE,NER,562,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1998,14.2,Total
+Niger,NE,NER,562,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,8.4,Total
+Niger,NE,NER,562,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",3/28/2006,6.3,Total
+Niger,NE,NER,562,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",11/1/2006,6.3,Total
+Niger,NE,NER,562,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2007,7.2,Total
+Niger,NE,NER,562,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2008,8.4,Total
+Niger,NE,NER,562,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2009,7.3,Total
+Niger,NE,NER,562,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",6/5/2010,10.3,Total
+Niger,NE,NER,562,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",10/29/2010,9.4,Total
+Niger,NE,NER,562,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2011,7.8,Total
+Niger,NE,NER,562,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",4/11/2012,10,Total
+Niger,NE,NER,562,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",7/16/2012,8.9,Total
+Niger,NE,NER,562,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2013,8,Total
+Niger,NE,NER,562,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,9.2,Total
+Niger,NE,NER,562,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2015,7.6,Total
+Niger,NE,NER,562,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,6.5,Total
+Niger,NE,NER,562,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,8.5,Total
+Niger,NE,NER,562,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,6.2,Total
+Niger,NE,NER,562,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2020,7.9,Total
+Niger,NE,NER,562,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2021,6.1,Total
+Nigeria,NG,NGA,566,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1990,5.8,Female
+Nigeria,NG,NGA,566,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2003,5.5,Female
+Nigeria,NG,NGA,566,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2011,6,Female
+Nigeria,NG,NGA,566,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,5.3,Female
+Nigeria,NG,NGA,566,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2015,4.7,Female
+Nigeria,NG,NGA,566,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,6.3,Female
+Nigeria,NG,NGA,566,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",4/2/2018,4.5,Female
+Nigeria,NG,NGA,566,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",10/23/2018,3.9,Female
+Nigeria,NG,NGA,566,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2020,4.2,Female
+Nigeria,NG,NGA,566,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1990,5.6,Male
+Nigeria,NG,NGA,566,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2003,5.8,Male
+Nigeria,NG,NGA,566,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2011,6.9,Male
+Nigeria,NG,NGA,566,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,5.4,Male
+Nigeria,NG,NGA,566,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2015,4.6,Male
+Nigeria,NG,NGA,566,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,6.9,Male
+Nigeria,NG,NGA,566,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",4/2/2018,5.4,Male
+Nigeria,NG,NGA,566,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",10/23/2018,4.9,Male
+Nigeria,NG,NGA,566,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2020,5.2,Male
+Nigeria,NG,NGA,566,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1990,5.7,Total
+Nigeria,NG,NGA,566,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2003,5.7,Total
+Nigeria,NG,NGA,566,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2011,6.5,Total
+Nigeria,NG,NGA,566,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,5.3,Total
+Nigeria,NG,NGA,566,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2015,4.6,Total
+Nigeria,NG,NGA,566,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,6.6,Total
+Nigeria,NG,NGA,566,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",4/2/2018,4.9,Total
+Nigeria,NG,NGA,566,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",10/23/2018,4.4,Total
+Nigeria,NG,NGA,566,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2020,4.7,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2005,2.4,Female
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2011,1.5,Female
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,2.6,Female
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2005,1.8,Male
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2011,2.8,Male
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,2.2,Male
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2005,2.1,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2011,2.2,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,2.4,Total
+Oman,OM,OMN,512,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1994,6.1,Female
+Oman,OM,OMN,512,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1999,6,Female
+Oman,OM,OMN,512,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1994,7.1,Male
+Oman,OM,OMN,512,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1999,5.7,Male
+Oman,OM,OMN,512,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1994,6.6,Total
+Oman,OM,OMN,512,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1999,5.8,Total
+Pakistan,PK,PAK,586,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1991,5.3,Female
+Pakistan,PK,PAK,586,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2001,6.8,Female
+Pakistan,PK,PAK,586,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2011,7.8,Female
+Pakistan,PK,PAK,586,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2013,6,Female
+Pakistan,PK,PAK,586,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,3.1,Female
+Pakistan,PK,PAK,586,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1991,7.3,Male
+Pakistan,PK,PAK,586,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2001,7.6,Male
+Pakistan,PK,PAK,586,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2011,7.9,Male
+Pakistan,PK,PAK,586,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2013,5.6,Male
+Pakistan,PK,PAK,586,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,4.4,Male
+Pakistan,PK,PAK,586,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1991,6.3,Total
+Pakistan,PK,PAK,586,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2001,7.2,Total
+Pakistan,PK,PAK,586,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2011,7.8,Total
+Pakistan,PK,PAK,586,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2013,5.8,Total
+Pakistan,PK,PAK,586,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,3.8,Total
+Panama,PA,PAN,591,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1997,1.2,Female
+Panama,PA,PAN,591,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2003,0.7,Female
+Panama,PA,PAN,591,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2008,1.1,Female
+Panama,PA,PAN,591,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,0.8,Female
+Panama,PA,PAN,591,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1997,0.8,Male
+Panama,PA,PAN,591,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2003,1.2,Male
+Panama,PA,PAN,591,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2008,1.1,Male
+Panama,PA,PAN,591,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,0.5,Male
+Panama,PA,PAN,591,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1997,1,Total
+Panama,PA,PAN,591,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2003,1,Total
+Panama,PA,PAN,591,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2008,1.1,Total
+Panama,PA,PAN,591,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,0.6,Total
+Papua New Guinea,PG,PNG,598,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,6.1,Female
+Papua New Guinea,PG,PNG,598,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,6.6,Male
+Papua New Guinea,PG,PNG,598,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,6.4,Total
+Paraguay,PY,PRY,600,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1990,0.6,Female
+Paraguay,PY,PRY,600,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2005,0.2,Female
+Paraguay,PY,PRY,600,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,2,Female
+Paraguay,PY,PRY,600,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,0.6,Female
+Paraguay,PY,PRY,600,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1990,0.2,Male
+Paraguay,PY,PRY,600,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2005,1.6,Male
+Paraguay,PY,PRY,600,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,1.3,Male
+Paraguay,PY,PRY,600,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,0.9,Male
+Paraguay,PY,PRY,600,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1990,0.4,Total
+Paraguay,PY,PRY,600,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2005,0.9,Total
+Paraguay,PY,PRY,600,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,1.6,Total
+Paraguay,PY,PRY,600,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,0.7,Total
+Peru,PE,PER,604,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1991,1.1,Female
+Peru,PE,PER,604,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1996,0.8,Female
+Peru,PE,PER,604,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,0.6,Female
+Peru,PE,PER,604,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2005,0.5,Female
+Peru,PE,PER,604,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2007,0.4,Female
+Peru,PE,PER,604,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2009,0.4,Female
+Peru,PE,PER,604,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",7/23/2010,0.5,Female
+Peru,PE,PER,604,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",8/1/2010,0.6,Female
+Peru,PE,PER,604,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2011,0.2,Female
+Peru,PE,PER,604,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1/31/2012,1,Female
+Peru,PE,PER,604,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",7/31/2012,0.4,Female
+Peru,PE,PER,604,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2013,0.2,Female
+Peru,PE,PER,604,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,0.5,Female
+Peru,PE,PER,604,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2015,0.3,Female
+Peru,PE,PER,604,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,0.2,Female
+Peru,PE,PER,604,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2017,0.4,Female
+Peru,PE,PER,604,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,0.3,Female
+Peru,PE,PER,604,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,0.2,Female
+Peru,PE,PER,604,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2020,0.3,Female
+Peru,PE,PER,604,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2021,0.3,Female
+Peru,PE,PER,604,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1991,1.4,Male
+Peru,PE,PER,604,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1996,0.9,Male
+Peru,PE,PER,604,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,0.8,Male
+Peru,PE,PER,604,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2005,0.9,Male
+Peru,PE,PER,604,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2007,0.7,Male
+Peru,PE,PER,604,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2009,0.3,Male
+Peru,PE,PER,604,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",7/23/2010,0.5,Male
+Peru,PE,PER,604,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",8/1/2010,0.8,Male
+Peru,PE,PER,604,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2011,0.3,Male
+Peru,PE,PER,604,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1/31/2012,2,Male
+Peru,PE,PER,604,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",7/31/2012,0.7,Male
+Peru,PE,PER,604,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2013,0.3,Male
+Peru,PE,PER,604,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,0.5,Male
+Peru,PE,PER,604,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2015,0.4,Male
+Peru,PE,PER,604,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,0.6,Male
+Peru,PE,PER,604,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2017,0.5,Male
+Peru,PE,PER,604,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,0.4,Male
+Peru,PE,PER,604,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,0.3,Male
+Peru,PE,PER,604,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2020,0.2,Male
+Peru,PE,PER,604,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2021,0.3,Male
+Peru,PE,PER,604,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1991,1.2,Total
+Peru,PE,PER,604,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1996,0.8,Total
+Peru,PE,PER,604,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,0.7,Total
+Peru,PE,PER,604,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2005,0.7,Total
+Peru,PE,PER,604,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2007,0.6,Total
+Peru,PE,PER,604,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2009,0.4,Total
+Peru,PE,PER,604,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",7/23/2010,0.5,Total
+Peru,PE,PER,604,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",8/1/2010,0.7,Total
+Peru,PE,PER,604,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2011,0.3,Total
+Peru,PE,PER,604,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1/31/2012,1.5,Total
+Peru,PE,PER,604,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",7/31/2012,0.6,Total
+Peru,PE,PER,604,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2013,0.3,Total
+Peru,PE,PER,604,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,0.5,Total
+Peru,PE,PER,604,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2015,0.4,Total
+Peru,PE,PER,604,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,0.4,Total
+Peru,PE,PER,604,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2017,0.4,Total
+Peru,PE,PER,604,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,0.4,Total
+Peru,PE,PER,604,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,0.3,Total
+Peru,PE,PER,604,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2020,0.3,Total
+Peru,PE,PER,604,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2021,0.3,Total
+Philippines,PH,PHL,608,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2008,4,Female
+Philippines,PH,PHL,608,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2011,4.4,Female
+Philippines,PH,PHL,608,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2013,4.4,Female
+Philippines,PH,PHL,608,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2015,4.1,Female
+Philippines,PH,PHL,608,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2008,4.3,Male
+Philippines,PH,PHL,608,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2011,3.8,Male
+Philippines,PH,PHL,608,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2013,4.3,Male
+Philippines,PH,PHL,608,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2015,4.4,Male
+Philippines,PH,PHL,608,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2008,4.2,Total
+Philippines,PH,PHL,608,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2011,4.1,Total
+Philippines,PH,PHL,608,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2013,4.4,Total
+Philippines,PH,PHL,608,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2015,4.2,Total
+Poland,PL,POL,616,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2011,0.9,Female
+Poland,PL,POL,616,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2011,0.8,Male
+Poland,PL,POL,616,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2011,0.9,Total
+Portugal,PT,PRT,620,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,0.4,Female
+Portugal,PT,PRT,620,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,0.5,Male
+Portugal,PT,PRT,620,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,0.5,Total
+South Korea,KR,KOR,410,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2011,0,Female
+South Korea,KR,KOR,410,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,0.2,Female
+South Korea,KR,KOR,410,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2017,0,Female
+South Korea,KR,KOR,410,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2011,0.7,Male
+South Korea,KR,KOR,410,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,0.8,Male
+South Korea,KR,KOR,410,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2017,0.8,Male
+South Korea,KR,KOR,410,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2011,0.4,Total
+South Korea,KR,KOR,410,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,0.5,Total
+South Korea,KR,KOR,410,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2017,0.4,Total
+"Moldova, Republic of",MD,MDA,498,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2005,3.9,Female
+"Moldova, Republic of",MD,MDA,498,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,1.1,Female
+"Moldova, Republic of",MD,MDA,498,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2005,2.4,Male
+"Moldova, Republic of",MD,MDA,498,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,1.3,Male
+"Moldova, Republic of",MD,MDA,498,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2005,3.1,Total
+"Moldova, Republic of",MD,MDA,498,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,1.2,Total
+Rwanda,RW,RWA,646,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1992,2.3,Female
+Rwanda,RW,RWA,646,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,4.2,Female
+Rwanda,RW,RWA,646,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2005,2.4,Female
+Rwanda,RW,RWA,646,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,1.6,Female
+Rwanda,RW,RWA,646,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,1.4,Female
+Rwanda,RW,RWA,646,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1/9/2015,1.1,Female
+Rwanda,RW,RWA,646,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",4/26/2015,1.1,Female
+Rwanda,RW,RWA,646,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,1.2,Female
+Rwanda,RW,RWA,646,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2020,0.6,Female
+Rwanda,RW,RWA,646,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1992,3.2,Male
+Rwanda,RW,RWA,646,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,4.5,Male
+Rwanda,RW,RWA,646,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2005,2.6,Male
+Rwanda,RW,RWA,646,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,1.7,Male
+Rwanda,RW,RWA,646,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,1.5,Male
+Rwanda,RW,RWA,646,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1/9/2015,1.3,Male
+Rwanda,RW,RWA,646,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",4/26/2015,0.9,Male
+Rwanda,RW,RWA,646,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,1.5,Male
+Rwanda,RW,RWA,646,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2020,0.7,Male
+Rwanda,RW,RWA,646,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1992,2.8,Total
+Rwanda,RW,RWA,646,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,4.4,Total
+Rwanda,RW,RWA,646,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2005,2.5,Total
+Rwanda,RW,RWA,646,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,1.7,Total
+Rwanda,RW,RWA,646,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,1.4,Total
+Rwanda,RW,RWA,646,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1/9/2015,1.2,Total
+Rwanda,RW,RWA,646,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",4/26/2015,1,Total
+Rwanda,RW,RWA,646,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,1.4,Total
+Rwanda,RW,RWA,646,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2020,0.7,Total
+Saint Lucia,LC,LCA,662,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,2.1,Female
+Saint Lucia,LC,LCA,662,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,2.1,Male
+Saint Lucia,LC,LCA,662,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,2.1,Total
+Samoa,WS,WSM,882,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,3,Female
+Samoa,WS,WSM,882,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,2.5,Female
+Samoa,WS,WSM,882,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,1.9,Male
+Samoa,WS,WSM,882,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,1.2,Male
+Samoa,WS,WSM,882,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,2.4,Total
+Samoa,WS,WSM,882,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,1.8,Total
+Sao Tome and Principe,ST,STP,678,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,2.2,Female
+Sao Tome and Principe,ST,STP,678,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,1.5,Female
+Sao Tome and Principe,ST,STP,678,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,3.1,Male
+Sao Tome and Principe,ST,STP,678,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,3.4,Male
+Sao Tome and Principe,ST,STP,678,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,2.6,Total
+Sao Tome and Principe,ST,STP,678,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,2.4,Total
+Senegal,SN,SEN,686,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1986,1.3,Female
+Senegal,SN,SEN,686,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1993,5.8,Female
+Senegal,SN,SEN,686,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,6,Female
+Senegal,SN,SEN,686,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2005,5.7,Female
+Senegal,SN,SEN,686,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2011,6.5,Female
+Senegal,SN,SEN,686,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,6.2,Female
+Senegal,SN,SEN,686,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2/1/2013,6.3,Female
+Senegal,SN,SEN,686,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",6/20/2013,6.2,Female
+Senegal,SN,SEN,686,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",6/10/2014,5.1,Female
+Senegal,SN,SEN,686,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",7/1/2014,5.3,Female
+Senegal,SN,SEN,686,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",6/21/2015,5.3,Female
+Senegal,SN,SEN,686,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",10/30/2015,7.1,Female
+Senegal,SN,SEN,686,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,4.7,Female
+Senegal,SN,SEN,686,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2017,6.6,Female
+Senegal,SN,SEN,686,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,5.9,Female
+Senegal,SN,SEN,686,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2/9/2019,5.3,Female
+Senegal,SN,SEN,686,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",8/16/2019,5.3,Female
+Senegal,SN,SEN,686,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1986,5.2,Male
+Senegal,SN,SEN,686,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1993,4.9,Male
+Senegal,SN,SEN,686,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,7,Male
+Senegal,SN,SEN,686,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2005,6.8,Male
+Senegal,SN,SEN,686,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2011,6.5,Male
+Senegal,SN,SEN,686,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,7.3,Male
+Senegal,SN,SEN,686,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2/1/2013,7.4,Male
+Senegal,SN,SEN,686,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",6/20/2013,6.5,Male
+Senegal,SN,SEN,686,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",6/10/2014,4.8,Male
+Senegal,SN,SEN,686,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",7/1/2014,7.1,Male
+Senegal,SN,SEN,686,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",6/21/2015,5.9,Male
+Senegal,SN,SEN,686,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",10/30/2015,6.3,Male
+Senegal,SN,SEN,686,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,5,Male
+Senegal,SN,SEN,686,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2017,7.2,Male
+Senegal,SN,SEN,686,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,5.8,Male
+Senegal,SN,SEN,686,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2/9/2019,6.5,Male
+Senegal,SN,SEN,686,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",8/16/2019,7.6,Male
+Senegal,SN,SEN,686,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1986,3.2,Total
+Senegal,SN,SEN,686,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1993,5.4,Total
+Senegal,SN,SEN,686,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,6.5,Total
+Senegal,SN,SEN,686,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2005,6.2,Total
+Senegal,SN,SEN,686,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2011,6.5,Total
+Senegal,SN,SEN,686,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,6.8,Total
+Senegal,SN,SEN,686,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2/1/2013,6.8,Total
+Senegal,SN,SEN,686,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",6/20/2013,6.4,Total
+Senegal,SN,SEN,686,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",6/10/2014,4.9,Total
+Senegal,SN,SEN,686,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",7/1/2014,6.3,Total
+Senegal,SN,SEN,686,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",6/21/2015,5.6,Total
+Senegal,SN,SEN,686,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",10/30/2015,6.7,Total
+Senegal,SN,SEN,686,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,4.8,Total
+Senegal,SN,SEN,686,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2017,6.9,Total
+Senegal,SN,SEN,686,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,5.9,Total
+Senegal,SN,SEN,686,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2/9/2019,5.9,Total
+Senegal,SN,SEN,686,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",8/16/2019,6.4,Total
+Serbia,RS,SRB,688,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2005,2.6,Female
+Serbia,RS,SRB,688,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,2.8,Female
+Serbia,RS,SRB,688,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,2.5,Female
+Serbia,RS,SRB,688,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,1.7,Female
+Serbia,RS,SRB,688,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2005,3.5,Male
+Serbia,RS,SRB,688,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,2,Male
+Serbia,RS,SRB,688,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,3,Male
+Serbia,RS,SRB,688,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,2.2,Male
+Serbia,RS,SRB,688,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2005,3.1,Total
+Serbia,RS,SRB,688,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,2.4,Total
+Serbia,RS,SRB,688,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,2.8,Total
+Serbia,RS,SRB,688,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,2,Total
+Sierra Leone,SL,SLE,694,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,6.1,Female
+Sierra Leone,SL,SLE,694,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2005,4.3,Female
+Sierra Leone,SL,SLE,694,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,4.6,Female
+Sierra Leone,SL,SLE,694,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,2.8,Female
+Sierra Leone,SL,SLE,694,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",7/1/2017,3.9,Female
+Sierra Leone,SL,SLE,694,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",9/19/2017,2.6,Female
+Sierra Leone,SL,SLE,694,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,4,Female
+Sierra Leone,SL,SLE,694,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2021,3.4,Female
+Sierra Leone,SL,SLE,694,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,8,Male
+Sierra Leone,SL,SLE,694,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2005,6.6,Male
+Sierra Leone,SL,SLE,694,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,5.3,Male
+Sierra Leone,SL,SLE,694,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,3.5,Male
+Sierra Leone,SL,SLE,694,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",7/1/2017,4.4,Male
+Sierra Leone,SL,SLE,694,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",9/19/2017,4.2,Male
+Sierra Leone,SL,SLE,694,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,3.2,Male
+Sierra Leone,SL,SLE,694,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2021,4.6,Male
+Sierra Leone,SL,SLE,694,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,7.1,Total
+Sierra Leone,SL,SLE,694,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2005,5.5,Total
+Sierra Leone,SL,SLE,694,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,5,Total
+Sierra Leone,SL,SLE,694,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,3.2,Total
+Sierra Leone,SL,SLE,694,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",7/1/2017,4.1,Total
+Sierra Leone,SL,SLE,694,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",9/19/2017,3.4,Total
+Sierra Leone,SL,SLE,694,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,3.6,Total
+Sierra Leone,SL,SLE,694,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2021,3.9,Total
+Solomon Islands,SB,SLB,90,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2015,4.4,Female
+Solomon Islands,SB,SLB,90,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2015,4,Male
+Solomon Islands,SB,SLB,90,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2015,4.2,Total
+Somalia,SO,SOM,706,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,6.5,Female
+Somalia,SO,SOM,706,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2009,7.6,Female
+Somalia,SO,SOM,706,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,7.9,Male
+Somalia,SO,SOM,706,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2009,9.6,Male
+Somalia,SO,SOM,706,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,7.2,Total
+Somalia,SO,SOM,706,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2009,8.6,Total
+South Africa,ZA,ZAF,710,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2008,2.4,Female
+South Africa,ZA,ZAF,710,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2015,1.9,Female
+South Africa,ZA,ZAF,710,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,1.3,Female
+South Africa,ZA,ZAF,710,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2017,1.9,Female
+South Africa,ZA,ZAF,710,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2008,2.2,Male
+South Africa,ZA,ZAF,710,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2015,1.9,Male
+South Africa,ZA,ZAF,710,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,1.1,Male
+South Africa,ZA,ZAF,710,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2017,1.7,Male
+South Africa,ZA,ZAF,710,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2008,2.3,Total
+South Africa,ZA,ZAF,710,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2015,1.9,Total
+South Africa,ZA,ZAF,710,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,1.2,Total
+South Africa,ZA,ZAF,710,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2017,1.8,Total
+South Sudan,SS,SSD,728,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,11.6,Female
+South Sudan,SS,SSD,728,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,13.1,Male
+South Sudan,SS,SSD,728,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,12.3,Total
+Sri Lanka,LK,LKA,144,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1987,7.6,Female
+Sri Lanka,LK,LKA,144,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1993,11,Female
+Sri Lanka,LK,LKA,144,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,12.4,Female
+Sri Lanka,LK,LKA,144,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2007,10,Female
+Sri Lanka,LK,LKA,144,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,16.4,Female
+Sri Lanka,LK,LKA,144,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,10.8,Female
+Sri Lanka,LK,LKA,144,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1987,10.5,Male
+Sri Lanka,LK,LKA,144,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1993,9.7,Male
+Sri Lanka,LK,LKA,144,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,12,Male
+Sri Lanka,LK,LKA,144,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2007,11,Male
+Sri Lanka,LK,LKA,144,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,16.6,Male
+Sri Lanka,LK,LKA,144,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,10.5,Male
+Sri Lanka,LK,LKA,144,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1987,9.1,Total
+Sri Lanka,LK,LKA,144,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1993,10.3,Total
+Sri Lanka,LK,LKA,144,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,12.2,Total
+Sri Lanka,LK,LKA,144,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2007,10.5,Total
+Sri Lanka,LK,LKA,144,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,16.5,Total
+Sri Lanka,LK,LKA,144,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,10.7,Total
+"Palestinian Territory, Occupied",PS,PSE,275,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1996,2,Female
+"Palestinian Territory, Occupied",PS,PSE,275,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,1.4,Female
+"Palestinian Territory, Occupied",PS,PSE,275,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2002,1,Female
+"Palestinian Territory, Occupied",PS,PSE,275,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2004,1.8,Female
+"Palestinian Territory, Occupied",PS,PSE,275,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,1,Female
+"Palestinian Territory, Occupied",PS,PSE,275,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,2.3,Female
+"Palestinian Territory, Occupied",PS,PSE,275,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,1,Female
+"Palestinian Territory, Occupied",PS,PSE,275,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2020,0.9,Female
+"Palestinian Territory, Occupied",PS,PSE,275,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1996,1.7,Male
+"Palestinian Territory, Occupied",PS,PSE,275,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,1.4,Male
+"Palestinian Territory, Occupied",PS,PSE,275,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2002,1.6,Male
+"Palestinian Territory, Occupied",PS,PSE,275,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2004,2.2,Male
+"Palestinian Territory, Occupied",PS,PSE,275,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,0.9,Male
+"Palestinian Territory, Occupied",PS,PSE,275,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,2.5,Male
+"Palestinian Territory, Occupied",PS,PSE,275,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,0.9,Male
+"Palestinian Territory, Occupied",PS,PSE,275,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2020,0.8,Male
+"Palestinian Territory, Occupied",PS,PSE,275,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1996,1.9,Total
+"Palestinian Territory, Occupied",PS,PSE,275,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,1.4,Total
+"Palestinian Territory, Occupied",PS,PSE,275,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2002,1.3,Total
+"Palestinian Territory, Occupied",PS,PSE,275,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2004,2,Total
+"Palestinian Territory, Occupied",PS,PSE,275,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,0.9,Total
+"Palestinian Territory, Occupied",PS,PSE,275,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,2.4,Total
+"Palestinian Territory, Occupied",PS,PSE,275,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,0.9,Total
+"Palestinian Territory, Occupied",PS,PSE,275,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2020,0.9,Total
+Sudan,SD,SDN,736,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,9,Female
+Sudan,SD,SDN,736,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,9.5,Female
+Sudan,SD,SDN,736,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,10.1,Male
+Sudan,SD,SDN,736,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,8.7,Male
+Sudan,SD,SDN,736,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,9.6,Total
+Sudan,SD,SDN,736,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,9.1,Total
+Suriname,SR,SUR,740,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,3.9,Female
+Suriname,SR,SUR,740,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,3.4,Female
+Suriname,SR,SUR,740,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,3.9,Female
+Suriname,SR,SUR,740,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,4.1,Female
+Suriname,SR,SUR,740,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,5.1,Male
+Suriname,SR,SUR,740,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,3.9,Male
+Suriname,SR,SUR,740,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,4.7,Male
+Suriname,SR,SUR,740,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,4.5,Male
+Suriname,SR,SUR,740,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,4.5,Total
+Suriname,SR,SUR,740,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,3.7,Total
+Suriname,SR,SUR,740,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,4.3,Total
+Suriname,SR,SUR,740,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,4.3,Total
+Syrian Arab Republic,SY,SYR,760,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1993,5.1,Female
+Syrian Arab Republic,SY,SYR,760,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2001,4.5,Female
+Syrian Arab Republic,SY,SYR,760,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,4.9,Female
+Syrian Arab Republic,SY,SYR,760,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,5.5,Female
+Syrian Arab Republic,SY,SYR,760,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1993,5.8,Male
+Syrian Arab Republic,SY,SYR,760,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2001,5.3,Male
+Syrian Arab Republic,SY,SYR,760,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,5.8,Male
+Syrian Arab Republic,SY,SYR,760,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,6.3,Male
+Syrian Arab Republic,SY,SYR,760,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1993,5.5,Total
+Syrian Arab Republic,SY,SYR,760,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2001,4.9,Total
+Syrian Arab Republic,SY,SYR,760,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,5.4,Total
+Syrian Arab Republic,SY,SYR,760,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,5.9,Total
+Tajikistan,TJ,TJK,762,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2005,5.2,Female
+Tajikistan,TJ,TJK,762,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2007,3.7,Female
+Tajikistan,TJ,TJK,762,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2009,3,Female
+Tajikistan,TJ,TJK,762,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,5.2,Female
+Tajikistan,TJ,TJK,762,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,2.4,Female
+Tajikistan,TJ,TJK,762,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2017,3.4,Female
+Tajikistan,TJ,TJK,762,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2005,4,Male
+Tajikistan,TJ,TJK,762,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2007,3.5,Male
+Tajikistan,TJ,TJK,762,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2009,2.9,Male
+Tajikistan,TJ,TJK,762,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,4.7,Male
+Tajikistan,TJ,TJK,762,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,2,Male
+Tajikistan,TJ,TJK,762,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2017,3.4,Male
+Tajikistan,TJ,TJK,762,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2005,4.6,Total
+Tajikistan,TJ,TJK,762,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2007,3.6,Total
+Tajikistan,TJ,TJK,762,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2009,2.9,Total
+Tajikistan,TJ,TJK,762,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,4.9,Total
+Tajikistan,TJ,TJK,762,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,2.2,Total
+Tajikistan,TJ,TJK,762,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2017,3.4,Total
+Thailand,TH,THA,764,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1987,2.7,Female
+Thailand,TH,THA,764,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,3.9,Female
+Thailand,TH,THA,764,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,3.9,Female
+Thailand,TH,THA,764,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,3.6,Female
+Thailand,TH,THA,764,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,5,Female
+Thailand,TH,THA,764,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1987,4,Male
+Thailand,TH,THA,764,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,3.6,Male
+Thailand,TH,THA,764,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,4.4,Male
+Thailand,TH,THA,764,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,4.1,Male
+Thailand,TH,THA,764,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,5.6,Male
+Thailand,TH,THA,764,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1987,3.3,Total
+Thailand,TH,THA,764,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,3.7,Total
+Thailand,TH,THA,764,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,4.1,Total
+Thailand,TH,THA,764,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,3.9,Total
+Thailand,TH,THA,764,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,5.3,Total
+Timor-Leste,TL,TLS,626,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2007,9.1,Female
+Timor-Leste,TL,TLS,626,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2009,9.5,Female
+Timor-Leste,TL,TLS,626,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2013,4.8,Female
+Timor-Leste,TL,TLS,626,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2020,4.2,Female
+Timor-Leste,TL,TLS,626,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2007,11.7,Male
+Timor-Leste,TL,TLS,626,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2009,9.9,Male
+Timor-Leste,TL,TLS,626,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2013,6.7,Male
+Timor-Leste,TL,TLS,626,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2020,5.9,Male
+Timor-Leste,TL,TLS,626,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2007,10.4,Total
+Timor-Leste,TL,TLS,626,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2009,9.7,Total
+Timor-Leste,TL,TLS,626,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2013,5.8,Total
+Timor-Leste,TL,TLS,626,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2020,5.1,Total
+Togo,TG,TGO,768,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1988,3.4,Female
+Togo,TG,TGO,768,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1998,10,Female
+Togo,TG,TGO,768,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2009,3.5,Female
+Togo,TG,TGO,768,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",10/4/2010,2.7,Female
+Togo,TG,TGO,768,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",12/21/2010,3.5,Female
+Togo,TG,TGO,768,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,3.4,Female
+Togo,TG,TGO,768,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,4.5,Female
+Togo,TG,TGO,768,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2017,4,Female
+Togo,TG,TGO,768,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1988,5.1,Male
+Togo,TG,TGO,768,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1998,8.3,Male
+Togo,TG,TGO,768,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2009,4.7,Male
+Togo,TG,TGO,768,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",10/4/2010,3.9,Male
+Togo,TG,TGO,768,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",12/21/2010,3.3,Male
+Togo,TG,TGO,768,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,4.5,Male
+Togo,TG,TGO,768,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,4.5,Male
+Togo,TG,TGO,768,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2017,3.4,Male
+Togo,TG,TGO,768,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1988,4.3,Total
+Togo,TG,TGO,768,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1998,9.2,Total
+Togo,TG,TGO,768,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2009,4.1,Total
+Togo,TG,TGO,768,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",10/4/2010,3.3,Total
+Togo,TG,TGO,768,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",12/21/2010,3.4,Total
+Togo,TG,TGO,768,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,4,Total
+Togo,TG,TGO,768,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,4.5,Total
+Togo,TG,TGO,768,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2017,3.7,Total
+Tonga,TO,TON,776,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,0.9,Female
+Tonga,TO,TON,776,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,1,Male
+Tonga,TO,TON,776,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,0.9,Total
+Trinidad and Tobago,TT,TTO,780,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1987,2.8,Female
+Trinidad and Tobago,TT,TTO,780,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,4.1,Female
+Trinidad and Tobago,TT,TTO,780,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2011,5.1,Female
+Trinidad and Tobago,TT,TTO,780,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1987,1.7,Male
+Trinidad and Tobago,TT,TTO,780,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,4.4,Male
+Trinidad and Tobago,TT,TTO,780,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2011,4,Male
+Trinidad and Tobago,TT,TTO,780,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1987,2.3,Total
+Trinidad and Tobago,TT,TTO,780,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,4.3,Total
+Trinidad and Tobago,TT,TTO,780,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2011,4.5,Total
+Tunisia,TN,TUN,788,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1988,4,Female
+Tunisia,TN,TUN,788,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,1.1,Female
+Tunisia,TN,TUN,788,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,1.4,Female
+Tunisia,TN,TUN,788,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1988,3.6,Male
+Tunisia,TN,TUN,788,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,1.4,Male
+Tunisia,TN,TUN,788,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,1.3,Male
+Tunisia,TN,TUN,788,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1988,3.8,Total
+Tunisia,TN,TUN,788,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,1.3,Total
+Tunisia,TN,TUN,788,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,1.3,Total
+Turkmenistan,TM,TKM,795,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,5,Female
+Turkmenistan,TM,TKM,795,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,4.6,Female
+Turkmenistan,TM,TKM,795,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2015,3.4,Female
+Turkmenistan,TM,TKM,795,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,3.3,Female
+Turkmenistan,TM,TKM,795,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,5,Male
+Turkmenistan,TM,TKM,795,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,4.5,Male
+Turkmenistan,TM,TKM,795,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2015,3.1,Male
+Turkmenistan,TM,TKM,795,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,4.6,Male
+Turkmenistan,TM,TKM,795,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,5,Total
+Turkmenistan,TM,TKM,795,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,4.5,Total
+Turkmenistan,TM,TKM,795,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2015,3.2,Total
+Turkmenistan,TM,TKM,795,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,4,Total
+Turks and Caicos Islands,TC,TCA,796,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2020,0.7,Female
+Turks and Caicos Islands,TC,TCA,796,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2020,1.6,Male
+Turks and Caicos Islands,TC,TCA,796,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2020,1.1,Total
+Tuvalu,TV,TUV,798,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,1.8,Female
+Tuvalu,TV,TUV,798,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,1.5,Male
+Tuvalu,TV,TUV,798,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,1.7,Total
+Turkey,TR,TUR,792,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1993,2.7,Female
+Turkey,TR,TUR,792,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1998,1.8,Female
+Turkey,TR,TUR,792,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2004,0.3,Female
+Turkey,TR,TUR,792,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2008,0.7,Female
+Turkey,TR,TUR,792,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2013,1.9,Female
+Turkey,TR,TUR,792,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,0.8,Female
+Turkey,TR,TUR,792,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1993,3.4,Male
+Turkey,TR,TUR,792,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1998,1.3,Male
+Turkey,TR,TUR,792,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2004,0.6,Male
+Turkey,TR,TUR,792,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2008,1.2,Male
+Turkey,TR,TUR,792,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2013,1.1,Male
+Turkey,TR,TUR,792,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,1.1,Male
+Turkey,TR,TUR,792,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1993,3.1,Total
+Turkey,TR,TUR,792,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1998,1.5,Total
+Turkey,TR,TUR,792,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2004,0.5,Total
+Turkey,TR,TUR,792,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2008,0.9,Total
+Turkey,TR,TUR,792,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2013,1.4,Total
+Turkey,TR,TUR,792,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,1,Total
+Uganda,UG,UGA,800,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1988,2.5,Female
+Uganda,UG,UGA,800,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1995,3.6,Female
+Uganda,UG,UGA,800,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,1.6,Female
+Uganda,UG,UGA,800,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,2.7,Female
+Uganda,UG,UGA,800,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2009,2.4,Female
+Uganda,UG,UGA,800,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",9/16/2011,2.3,Female
+Uganda,UG,UGA,800,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,3.5,Female
+Uganda,UG,UGA,800,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,1.9,Female
+Uganda,UG,UGA,800,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,2,Female
+Uganda,UG,UGA,800,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,2.3,Female
+Uganda,UG,UGA,800,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2020,2.7,Female
+Uganda,UG,UGA,800,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1988,2.5,Male
+Uganda,UG,UGA,800,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1995,4.4,Male
+Uganda,UG,UGA,800,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,3.6,Male
+Uganda,UG,UGA,800,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,4,Male
+Uganda,UG,UGA,800,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2009,3.1,Male
+Uganda,UG,UGA,800,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",5/2/2011,1.1,Male
+Uganda,UG,UGA,800,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",9/16/2011,3.3,Male
+Uganda,UG,UGA,800,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,2.3,Male
+Uganda,UG,UGA,800,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,3.3,Male
+Uganda,UG,UGA,800,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,2.7,Male
+Uganda,UG,UGA,800,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,1.2,Male
+Uganda,UG,UGA,800,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2020,1.3,Male
+Uganda,UG,UGA,800,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1988,2.5,Total
+Uganda,UG,UGA,800,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1995,4,Total
+Uganda,UG,UGA,800,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,2.6,Total
+Uganda,UG,UGA,800,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,3.4,Total
+Uganda,UG,UGA,800,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2009,2.8,Total
+Uganda,UG,UGA,800,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",5/2/2011,1.1,Total
+Uganda,UG,UGA,800,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",9/16/2011,2.8,Total
+Uganda,UG,UGA,800,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2012,2.9,Total
+Uganda,UG,UGA,800,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,2.6,Total
+Uganda,UG,UGA,800,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,2.3,Total
+Uganda,UG,UGA,800,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,1.8,Total
+Uganda,UG,UGA,800,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2020,2.1,Total
+Ukraine,UA,UKR,804,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,3.9,Female
+Ukraine,UA,UKR,804,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,5.2,Male
+Ukraine,UA,UKR,804,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,4.6,Total
+"Tanzania, United Republic of",TZ,TZA,834,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1991,3.8,Female
+"Tanzania, United Republic of",TZ,TZA,834,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1996,4.6,Female
+"Tanzania, United Republic of",TZ,TZA,834,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1999,3.2,Female
+"Tanzania, United Republic of",TZ,TZA,834,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2004,2,Female
+"Tanzania, United Republic of",TZ,TZA,834,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2009,2.4,Female
+"Tanzania, United Republic of",TZ,TZA,834,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,2.9,Female
+"Tanzania, United Republic of",TZ,TZA,834,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2011,4.4,Female
+"Tanzania, United Republic of",TZ,TZA,834,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2013,2.8,Female
+"Tanzania, United Republic of",TZ,TZA,834,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2015,2.7,Female
+"Tanzania, United Republic of",TZ,TZA,834,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1991,4.8,Male
+"Tanzania, United Republic of",TZ,TZA,834,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1996,5.4,Male
+"Tanzania, United Republic of",TZ,TZA,834,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1999,4,Male
+"Tanzania, United Republic of",TZ,TZA,834,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2004,2.3,Male
+"Tanzania, United Republic of",TZ,TZA,834,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2009,1.4,Male
+"Tanzania, United Republic of",TZ,TZA,834,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,2.9,Male
+"Tanzania, United Republic of",TZ,TZA,834,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2011,3.9,Male
+"Tanzania, United Republic of",TZ,TZA,834,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2013,2.4,Male
+"Tanzania, United Republic of",TZ,TZA,834,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2015,3.3,Male
+"Tanzania, United Republic of",TZ,TZA,834,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1991,4.3,Total
+"Tanzania, United Republic of",TZ,TZA,834,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1996,5,Total
+"Tanzania, United Republic of",TZ,TZA,834,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1999,3.6,Total
+"Tanzania, United Republic of",TZ,TZA,834,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2004,2.1,Total
+"Tanzania, United Republic of",TZ,TZA,834,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2009,1.9,Total
+"Tanzania, United Republic of",TZ,TZA,834,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,2.9,Total
+"Tanzania, United Republic of",TZ,TZA,834,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2011,4.1,Total
+"Tanzania, United Republic of",TZ,TZA,834,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2013,2.6,Total
+"Tanzania, United Republic of",TZ,TZA,834,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2015,3,Total
+Uruguay,UY,URY,858,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2013,0.5,Female
+Uruguay,UY,URY,858,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,0.6,Female
+Uruguay,UY,URY,858,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,1.1,Female
+Uruguay,UY,URY,858,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2013,1,Male
+Uruguay,UY,URY,858,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,0.4,Male
+Uruguay,UY,URY,858,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,1.4,Male
+Uruguay,UY,URY,858,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2013,0.7,Total
+Uruguay,UY,URY,858,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2016,0.5,Total
+Uruguay,UY,URY,858,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,1.2,Total
+Uzbekistan,UZ,UZB,860,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1996,5.2,Female
+Uzbekistan,UZ,UZB,860,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2002,5.2,Female
+Uzbekistan,UZ,UZB,860,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,2.5,Female
+Uzbekistan,UZ,UZB,860,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2017,1.3,Female
+Uzbekistan,UZ,UZB,860,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1996,7.2,Male
+Uzbekistan,UZ,UZB,860,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2002,5.2,Male
+Uzbekistan,UZ,UZB,860,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,3.2,Male
+Uzbekistan,UZ,UZB,860,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2017,1.6,Male
+Uzbekistan,UZ,UZB,860,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1996,6.2,Total
+Uzbekistan,UZ,UZB,860,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2002,5.2,Total
+Uzbekistan,UZ,UZB,860,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2006,2.9,Total
+Uzbekistan,UZ,UZB,860,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2017,1.5,Total
+Vanuatu,VU,VUT,548,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2008,3.2,Female
+Vanuatu,VU,VUT,548,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2013,3,Female
+Vanuatu,VU,VUT,548,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2008,3.6,Male
+Vanuatu,VU,VUT,548,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2013,3.4,Male
+Vanuatu,VU,VUT,548,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2008,3.4,Total
+Vanuatu,VU,VUT,548,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2013,3.2,Total
+Viet Nam,VN,VNM,704,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1993,3.3,Female
+Viet Nam,VN,VNM,704,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,3.3,Female
+Viet Nam,VN,VNM,704,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,2.8,Female
+Viet Nam,VN,VNM,704,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1993,3.8,Male
+Viet Nam,VN,VNM,704,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,4.3,Male
+Viet Nam,VN,VNM,704,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,1.5,Male
+Viet Nam,VN,VNM,704,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1993,3.5,Total
+Viet Nam,VN,VNM,704,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2000,3.8,Total
+Viet Nam,VN,VNM,704,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,2.1,Total
+Yemen,YE,YEM,887,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1991,8.2,Female
+Yemen,YE,YEM,887,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1997,8.8,Female
+Yemen,YE,YEM,887,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2003,8.2,Female
+Yemen,YE,YEM,887,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2005,7.4,Female
+Yemen,YE,YEM,887,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2013,9.1,Female
+Yemen,YE,YEM,887,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1991,8.8,Male
+Yemen,YE,YEM,887,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1997,8.5,Male
+Yemen,YE,YEM,887,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2003,8.7,Male
+Yemen,YE,YEM,887,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2005,8.6,Male
+Yemen,YE,YEM,887,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2013,9.6,Male
+Yemen,YE,YEM,887,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1991,8.5,Total
+Yemen,YE,YEM,887,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1997,8.6,Total
+Yemen,YE,YEM,887,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2003,8.4,Total
+Yemen,YE,YEM,887,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2005,8,Total
+Yemen,YE,YEM,887,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2013,9.4,Total
+Zambia,ZM,ZMB,894,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1992,3.6,Female
+Zambia,ZM,ZMB,894,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1996,2.7,Female
+Zambia,ZM,ZMB,894,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1999,2.1,Female
+Zambia,ZM,ZMB,894,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2002,3.1,Female
+Zambia,ZM,ZMB,894,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2007,2.7,Female
+Zambia,ZM,ZMB,894,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2013,3.7,Female
+Zambia,ZM,ZMB,894,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,2.2,Female
+Zambia,ZM,ZMB,894,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1992,3.7,Male
+Zambia,ZM,ZMB,894,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1996,3.7,Male
+Zambia,ZM,ZMB,894,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1999,3.4,Male
+Zambia,ZM,ZMB,894,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2002,3.3,Male
+Zambia,ZM,ZMB,894,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2007,3.3,Male
+Zambia,ZM,ZMB,894,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2013,3,Male
+Zambia,ZM,ZMB,894,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,3.1,Male
+Zambia,ZM,ZMB,894,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1992,3.6,Total
+Zambia,ZM,ZMB,894,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1996,3.2,Total
+Zambia,ZM,ZMB,894,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1999,2.8,Total
+Zambia,ZM,ZMB,894,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2002,3.2,Total
+Zambia,ZM,ZMB,894,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2007,3,Total
+Zambia,ZM,ZMB,894,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2013,3.3,Total
+Zambia,ZM,ZMB,894,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2018,2.6,Total
+Zimbabwe,ZW,ZWE,716,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1988,0.7,Female
+Zimbabwe,ZW,ZWE,716,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1994,4.2,Female
+Zimbabwe,ZW,ZWE,716,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1999,3.8,Female
+Zimbabwe,ZW,ZWE,716,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2005,3.4,Female
+Zimbabwe,ZW,ZWE,716,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2009,1.1,Female
+Zimbabwe,ZW,ZWE,716,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,1.3,Female
+Zimbabwe,ZW,ZWE,716,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,2.1,Female
+Zimbabwe,ZW,ZWE,716,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2015,1.7,Female
+Zimbabwe,ZW,ZWE,716,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,2.1,Female
+Zimbabwe,ZW,ZWE,716,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1988,1.2,Male
+Zimbabwe,ZW,ZWE,716,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1994,4.2,Male
+Zimbabwe,ZW,ZWE,716,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1999,4.6,Male
+Zimbabwe,ZW,ZWE,716,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2005,4.2,Male
+Zimbabwe,ZW,ZWE,716,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2009,1.9,Male
+Zimbabwe,ZW,ZWE,716,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,2.2,Male
+Zimbabwe,ZW,ZWE,716,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,2.2,Male
+Zimbabwe,ZW,ZWE,716,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2015,2,Male
+Zimbabwe,ZW,ZWE,716,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,2,Male
+Zimbabwe,ZW,ZWE,716,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1988,0.9,Total
+Zimbabwe,ZW,ZWE,716,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1994,4.2,Total
+Zimbabwe,ZW,ZWE,716,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",1999,4.2,Total
+Zimbabwe,ZW,ZWE,716,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2005,3.8,Total
+Zimbabwe,ZW,ZWE,716,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2009,1.5,Total
+Zimbabwe,ZW,ZWE,716,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2010,1.8,Total
+Zimbabwe,ZW,ZWE,716,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2014,2.1,Total
+Zimbabwe,ZW,ZWE,716,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2015,1.8,Total
+Zimbabwe,ZW,ZWE,716,"BMI-for-age <-2 SD and ≥ -3 SD, Survey Estimates",2019,2.1,Total
